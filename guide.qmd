@@ -1,0 +1,36 @@
+---
+title: "Guide"
+format: html
+---
+<span class="blank-line"></span>
+
+Throughout the year, we will hold meetings. At these meetings, different strategies for returns on the stock market will be discussed and demonstrated.
+
+<span class="blank-line"></span>
+
+Stock ideas and strategies can also be exchanged at meetings.
+
+<span class="blank-line"></span>
+
+**Below is the full list of planned topics we will cover.  
+These include, but are not limited to:**
+
+<span class = "something1">
+*-Buying & Selling  
+-Shorting & Covering  
+-Volume, market-cap, PE ratio, beta  
+-Dividends  
+-Index funds and indexes  
+-Acquisitions (impact)  
+-Volatilities  
+-Varying factors affecting stock price  
+-Option trading (puts & calls)  
+-Graph analysis  
+*-Earnings reports and significance 
+</span>
+
+<br>
+
+<div class="nav-right">
+ | [Home](index.qmd){style="color: #373737;"} | [About](about.qmd){style="color: #373737;"}
+</div>

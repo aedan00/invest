@@ -1,0 +1,26 @@
+---
+title: "Leadership"
+---
+<span class="blank-line"></span>
+
+**Advisor:**  
+Mr. Woodmansee
+
+**Co-President & Founder:**  
+Aedan Liao
+
+**Co-President:**  
+Hayden Reheiser
+
+**Committee Members:**  
+Kushanu Bhattacharya, Aakriti Chhabra
+
+---
+
+2024
+
+<br>
+
+<div class="nav-right">
+ | [Home](index.qmd){style="color: #373737;"}
+</div>

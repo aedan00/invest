@@ -1,0 +1,33 @@
+/* css styles */
+
+body {
+    background-image: url('invest-background.png');
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    /* Optional additional styles */
+    /* background-position: center center; */
+    /* background-attachment: fixed; */
+}
+
+.highlight {
+    color: #006400; /* Dark green */
+    font-size: 1.0em;
+    font-weight: bold;
+}
+
+.red {
+    color: #982153;
+}
+
+.something1 {
+    color: #373737; /* Dark grey */
+    font-size: 0.9em;
+}
+
+.blank-line {
+    margin: 20px 0; /* Adjust margin as needed */
+}
+
+.nav-right {
+    text-align: right;
+}

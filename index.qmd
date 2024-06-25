@@ -1,0 +1,31 @@
+---
+title: "Investment Club"
+format: html
+css: styles.css
+---
+<span class="blank-line"></span>
+
+<span class="highlight">**Investment Club starts in September 2024.**</span>  
+
+[Join this group](https://dublin.schoology.com/group/7283420475) to register & receive updates.
+
+View our info document **[here](https://docs.google.com/document/d/1cwgCudvzwrRmo7swpXPi9XubgKfZ64_dYvQHMxo2ibA/view){style="color: #34988b;"}**
+
+<span class = "something1">Investment club covers a variety of strategies for trading stocks,</span>  
+To see the full list of topics,
+view **[our guide](guide.qmd)**.
+
+---------------------------------------------------
+
+<span class = "something1">Investment Club gives an understanding of investments in the stock market and 
+provides different strategies for positive returns in the stock market. Members are also able to execute realistic trades in a simulated environment.</span>
+
+***Disclaimer:**  
+This club is solely focused on the stock market and related aspects, and will not cover cryptocurrency.*
+
+<br>
+
+
+<div class="nav-right">
+  | [About](about.qmd){style="color: #373737;"}
+</div>

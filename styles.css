@@ -15,6 +15,16 @@ body {
     font-weight: bold;
 }
 
+.freshgreen {
+    color: #03ac13; 
+    font-size: 1.0em;
+}
+
+.freshgreensmall {
+    color: #03ac13; 
+    font-size: 0.9em;
+}
+
 .red {
     color: #982153;
 }

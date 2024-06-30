@@ -15,7 +15,7 @@ Stock ideas and strategies can also be exchanged at meetings.
 **Below is the full list of planned topics we will cover.  
 These include, but are not limited to:**
 
-<span class = "something1">
+<span class = "freshgreensmall">
 *-Buying & Selling  
 -Shorting & Covering  
 -Volume, market-cap, PE ratio, beta  

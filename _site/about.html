@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>DCHS Investment Club - Leadership</title>
+<title>DCHS Investment Club - About Us</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -96,6 +96,14 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./guide.html"> 
 <span class="menu-text">Guide</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./tutorial1.html"> 
+<span class="menu-text">Tutorial-1</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
+<span class="menu-text">About Us</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
@@ -115,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Leadership</h1>
+<h1 class="title">About Us</h1>
 </div>
 
 
@@ -132,7 +140,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><span class="blank-line"></span></p>
+<p><span class="smalltext-black"><strong>This site is newly launched, and is proactively being updated.</strong></span><br>
+<span class="blank-line"></span></p>
 <p><strong>Advisor:</strong><br>
 Mr.&nbsp;Woodmansee</p>
 <p><strong>Co-President &amp; Founder:</strong><br>
@@ -142,7 +151,9 @@ Hayden Reheiser</p>
 <p><strong>Committee Members:</strong><br>
 Kushanu Bhattacharya, Aakriti Chhabra</p>
 <hr>
-<p>2024</p>
+<p><span class="smalltext-black">This website’s changes and version history can be found <a href="https://github.com/aedan00/invest">here</a><br>
+<span class="blank-line"></span></span></p>
+<p>2024, Coffman Investment Club</p>
 <p><br></p>
 <div class="nav-right">
 <p>| <a href="./index.html" style="color: #373737;">Home</a></p>
@@ -232,7 +243,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/aedan\.quarto\.pub\/investment-club");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

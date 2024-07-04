@@ -1,27 +1,29 @@
 ---
-title: "Investment Club"
+title: "DCHS Investment Club"
 format: html
 css: styles.css
 ---
 <span class="blank-line"></span>
 
-<span class="highlight">**Investment Club starts in September 2024.**</span>  
+<span class="highlight">**Investment Club starts in September 2024.**</span>
 
 [Join this group](https://dublin.schoology.com/group/7283420475) to register & receive updates.
 
----------------------------------------------------
-
-<span class = "something1">Investment Club gives an understanding of investments in the stock market and 
-provides different strategies for positive returns in the stock market. Members are also able to execute realistic trades in a simulated environment.</span>  
+<span class = "highlight1">This club focuses on investments in the stock market and provides different strategies for positive returns in the stock market. Members are also able to execute realistic trades in a simulated environment.</span>  
 To see the full list of topics,
 view **[our guide](guide.qmd){style="color: #03ac13;"}**.
 
 ---
 
 ***View our tri-fold board below: ***  
+pending addition <span class="smalltext-black"> (made by Hayden R. and Aedan L.) </span>
+<!-- <img src="trifold-no2.png" alt="**View our tri-fold board above**" width="550" /> -->
 
-<img src="trifold-no2.png" alt="**View our tri-fold board above**" width="550" />
+<span class="border-type-banner">
+Before our first meeting in September, it is recommended to complete **[this tutorial](tutorial1.qmd){style="color: #bf9000;"}** that contains the preliminary basics.
+</span>
 
+<br>
 
 <div class="nav-right">
   | [About](about.qmd){style="color: #373737;"}

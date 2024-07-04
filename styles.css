@@ -2,12 +2,11 @@
 
 body {
     background-image: url('invest-background.png');
-    background-size: cover; /* Adjust as needed */
-    background-repeat: no-repeat; /* Adjust as needed */
-    /* Optional additional styles */
-    /* background-position: center center; */
-    /* background-attachment: fixed; */
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
+
 
 .highlight {
     color: #006400; /* Dark green */
@@ -15,14 +14,43 @@ body {
     font-weight: bold;
 }
 
+.highlight1 {
+    color: #006400; /* Dark green */
+    font-size: 0.9em;
+}
+
+.border-type-banner {
+    display: inline-block;
+    background-color: #bde3b6; 
+    padding: 10px; 
+    border: 1px solid #cccccc; 
+    border-radius: 5px;
+}
+
+.border-type-alert {
+    display: inline-block; 
+    background-color: #ffffff;
+    padding: 10px;
+    border: transparent;
+    border-radius: 5px;
+}
+
 .freshgreen {
     color: #03ac13; 
     font-size: 1.0em;
 }
 
-.freshgreensmall {
+.green-type-small {
     color: #03ac13; 
     font-size: 0.9em;
+}
+
+.minitext-black {
+    font-size: 0.6em;
+}
+
+.smalltext-black {
+    font-size: 0.8em;
 }
 
 .red {
@@ -30,12 +58,12 @@ body {
 }
 
 .something1 {
-    color: #373737; /* Dark grey */
+    color: #373737;
     font-size: 0.9em;
 }
 
 .blank-line {
-    margin: 20px 0; /* Adjust margin as needed */
+    margin: 20px 0;
 }
 
 .nav-right {

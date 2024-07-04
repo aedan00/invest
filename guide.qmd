@@ -15,18 +15,20 @@ Stock ideas and strategies can also be exchanged at meetings.
 **Below is the full list of planned topics we will cover.  
 These include, but are not limited to:**
 
-<span class = "freshgreensmall">
-*-Buying & Selling  
+<span class = "green-type-small">
+**Intro:**  
+-Buying & Selling  
 -Shorting & Covering  
 -Volume, market-cap, PE ratio, beta  
--Dividends  
--Index funds and indexes  
+-Basic factors affecting stock price  
 -Acquisitions (impact)  
+**Intermediate:**  
+-Dividends  
+-Indexes, index funds, ETFs  
 -Volatilities  
--Varying factors affecting stock price  
 -Option trading (puts & calls)  
--Graph analysis  
-*-Earnings reports and significance 
+-Fundamental Analysis (earnings, financials)  
+-Technical Analysis (graphs, patterns, trends)  
 </span>
 
 <br>

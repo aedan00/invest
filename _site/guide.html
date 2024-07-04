@@ -96,6 +96,14 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./guide.html" aria-current="page"> 
 <span class="menu-text">Guide</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./tutorial1.html"> 
+<span class="menu-text">Tutorial-1</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About Us</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
@@ -139,17 +147,20 @@ ul.task-list li input[type="checkbox"] {
 <p><span class="blank-line"></span></p>
 <p><strong>Below is the full list of planned topics we will cover.<br>
 These include, but are not limited to:</strong></p>
-<p><span class="freshgreensmall"> <em>-Buying &amp; Selling<br>
+<p><span class="green-type-small"> <strong>Intro:</strong><br>
+-Buying &amp; Selling<br>
 -Shorting &amp; Covering<br>
 -Volume, market-cap, PE ratio, beta<br>
--Dividends<br>
--Index funds and indexes<br>
+-Basic factors affecting stock price<br>
 -Acquisitions (impact)<br>
+<strong>Intermediate:</strong><br>
+-Dividends<br>
+-Indexes, index funds, ETFs<br>
 -Volatilities<br>
--Varying factors affecting stock price<br>
 -Option trading (puts &amp; calls)<br>
--Graph analysis<br>
-</em>-Earnings reports and significance </span></p>
+-Fundamental Analysis (earnings, financials)<br>
+-Technical Analysis (graphs, patterns, trends)<br>
+</span></p>
 <p><br></p>
 <div class="nav-right">
 <p>| <a href="./index.html" style="color: #373737;">Home</a> | <a href="./about.html" style="color: #373737;">About</a></p>
@@ -239,7 +250,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/aedan\.quarto\.pub\/investment-club");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

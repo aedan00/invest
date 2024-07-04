@@ -1,6 +1,8 @@
 ---
-title: "Leadership"
+title: "About Us"
 ---
+
+<span class="smalltext-black">**This site is newly launched, and is proactively being updated.**</span>  
 <span class="blank-line"></span>
 
 **Advisor:**  
@@ -17,7 +19,10 @@ Kushanu Bhattacharya, Aakriti Chhabra
 
 ---
 
-2024
+<span class="smalltext-black">This website's changes and version history can be found [here](https://github.com/aedan00/invest)  
+<span class="blank-line"></span>
+
+2024, Coffman Investment Club  
 
 <br>
 

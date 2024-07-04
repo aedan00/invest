@@ -20,7 +20,7 @@ body {
 }
 
 .border-type-banner {
-    display: inline-block;
+    display: inline-block;  
     background-color: #bde3b6; 
     padding: 10px; 
     border: 1px solid #cccccc; 
@@ -28,20 +28,20 @@ body {
 }
 
 .border-type-alert {
-    display: inline-block; 
-    background-color: #ffffff;
-    padding: 10px;
-    border: transparent;
-    border-radius: 5px;
+    display: inline-block;  
+    background-color: #ffffff;  
+    padding: 10px;  
+    border: transparent;  
+    border-radius: 5px;  
 }
 
 .freshgreen {
-    color: #03ac13; 
+    color: #03ac13;  
     font-size: 1.0em;
 }
 
 .green-type-small {
-    color: #03ac13; 
+    color: #03ac13;  
     font-size: 0.9em;
 }
 
@@ -58,7 +58,7 @@ body {
 }
 
 .something1 {
-    color: #373737;
+    color: #373737;  
     font-size: 0.9em;
 }
 
@@ -68,4 +68,10 @@ body {
 
 .nav-right {
     text-align: right;
+}
+
+.small-table {
+    font-size: 14px;  
+    color: #006400;  
+    padding: 5px;
 }

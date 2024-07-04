@@ -20,7 +20,7 @@ pending addition <span class="smalltext-black"> (made by Hayden R. and Aedan L.)
 <!-- <img src="trifold-no2.png" alt="**View our tri-fold board above**" width="550" /> -->
 
 <span class="border-type-banner">
-Before our first meeting in September, it is recommended to complete **[this tutorial](tutorial1.qmd){style="color: #bf9000;"}** that contains the preliminary basics.
+Before our first meeting in September, it is recommended to complete **[this tutorial](tutorial1.qmd){style="color: #bf9000;"}**, which contains the preliminary basics.
 </span>
 
 <br>

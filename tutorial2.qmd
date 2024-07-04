@@ -1,0 +1,12 @@
+---
+title: "Tutorial-2"
+format: html
+css: styles.css
+---
+<span class="border-type-banner">
+Intro to Other Investing Practices
+</span>  
+
+<span class="smalltext-black">Click on **'Next'** to move to each section</span>
+
+

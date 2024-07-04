@@ -4,35 +4,56 @@ format: html
 ---
 <span class="blank-line"></span>
 
-Throughout the year, we will hold meetings. At these meetings, different strategies for returns on the stock market will be discussed and demonstrated.
+Throughout the year, we'll explore various investing tactics.  
+Exchange stock ideas and information during our meetings.
 
-<span class="blank-line"></span>
+**The full list of topics we will cover this year include, but are not limited to:**
+<div class="small-table">
+| **Intro**                          | **Intermediate**                              |
+|------------------------------------|-----------------------------------------------|
+| - Buying & Selling                 | - Dividends                                   |
+| - Shorting & Covering              | - Indexes, index funds, ETFs                  |
+| - Volume, market-cap, PE ratio, beta| - Volatilities                                |
+| - Basic factors affecting stock price| - Option trading (puts & calls)              |
+| - Acquisitions (impact)            | - Fundamental Analysis (earnings, financials) |
+|                                    | - Technical Analysis (graphs, patterns, trends)|
+</div>
+---
 
-Stock ideas and strategies can also be exchanged at meetings.
+<span class="smalltext-black">***The topics <span class="smalltext-black">(listed above)</span> will be divided and placed into sections, with each section being noted below.***</span>  
 
-<span class="blank-line"></span>
+---
 
-**Below is the full list of planned topics we will cover.  
-These include, but are not limited to:**
 
-<span class = "green-type-small">
-**Intro:**  
--Buying & Selling  
--Shorting & Covering  
--Volume, market-cap, PE ratio, beta  
--Basic factors affecting stock price  
--Acquisitions (impact)  
-**Intermediate:**  
--Dividends  
--Indexes, index funds, ETFs  
--Volatilities  
--Option trading (puts & calls)  
--Fundamental Analysis (earnings, financials)  
--Technical Analysis (graphs, patterns, trends)  
-</span>
+| **Sections**                                |                                              |
+|---------------------------------------------|----------------------------------------------|
+| Important Stock Market Basics & Review      | <span class="smalltext-black">(Tutorial Available)</span>                         |
+| Intro To Other Investing Practices          | <!-- -->                         |
+| Fundamental Analysis (Pt. 1)                | <!-- -->                         |
+| Fundamental Analysis (Pt. 2)                | <!-- -->                         |
+| Option Trading                              | <!-- -->                         |
+| Technical Analysis (Pt. 1)                  | <!-- -->                         |
+| Technical Analysis (Pt. 2)                  | <!-- -->      
 
 <br>
 
 <div class="nav-right">
  | [Home](index.qmd){style="color: #373737;"} | [About](about.qmd){style="color: #373737;"}
 </div>
+
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('invest-background-narrow.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+  }
+
+  #steps {
+    padding: 20px;
+    box-sizing: border-box;
+  }
+</style>

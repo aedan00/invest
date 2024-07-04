@@ -5,10 +5,10 @@ css: styles.css
 ---
 
 <span class="border-type-banner">
-Important Stock Market Basics
+Important Stock Market Basics & Review
 </span>  
 
-<span class="minitext-black">Click on 'Next' to move to each section</span>
+<span class="smalltext-black">Click on **'Next'** to move to each section</span>
 
 <div id="steps">
   <div id="step1">
@@ -114,8 +114,9 @@ In the end, demand of a stock is influenced by the performance of the company, m
   </div>
 
   <div id="step12" style="display: none;">
-### ---------------------
-The next couple sections will go by faster and will simply highlight additional key terms.
+### -----------------------------------
+
+The next couple sections will go by faster and will simply highlight additional key terms.  
 
   </div>
 
@@ -175,8 +176,8 @@ This tutorial has covered the essentials and groundwork related to stocks, which
   </div>
 
   <div id="step20" style="display: none;">
-### Credits
-**Written by:** Aedan Liao
+<span class="smalltext-black">
+**Written by:** Aedan Liao</span>
 
   </div>
 

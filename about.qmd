@@ -22,7 +22,9 @@ Kushanu Bhattacharya, Aakriti Chhabra
 <span class="smalltext-black">This website's changes and version history can be found [here](https://github.com/aedan00/invest)  
 <span class="blank-line"></span>
 
-2024, Coffman Investment Club  
+2024, Dublin Coffman Investment Club  
+<span class="smalltext-black">**Site powered by Quarto**</span>  
+<span class="blank-line"></span>
 
 <br>
 

@@ -15,12 +15,12 @@ view **[our guide](guide.qmd){style="color: #03ac13;"}**.
 
 ---
 
-***View our tri-fold board below: ***  
-pending addition <span class="smalltext-black"> (made by Hayden R. and Aedan L.) </span>
-<!-- <img src="trifold-no2.png" alt="**View our tri-fold board above**" width="550" /> -->
+***View our tri-fold board below: ***
+<span class="smalltext-black"> (made by Hayden R. and Aedan L.) </span>
+<img src="trifold-no3.png" alt="text" width="600" /> 
 
 <span class="border-type-banner">
-Before our first meeting in September, it is recommended to complete **[this tutorial](tutorial1.qmd){style="color: #bf9000;"}**, which contains the preliminary basics.
+It is recommended to complete **[this tutorial](tutorial1.qmd){style="color: #bf9000;"}** before our first meeting in September.
 </span>
 
 <br>

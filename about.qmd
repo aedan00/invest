@@ -15,11 +15,11 @@ Aedan Liao
 Hayden Reheiser
 
 **Committee Members:**  
-Kushanu Bhattacharya, Aakriti Chhabra
+Kushanu Bhattacharya
 
 ---
 
-<span class="smalltext-black">This website's changes and version history can be found [here](https://github.com/aedan00/invest)  
+<span class="smalltext-black">This website's version history can be found [here](https://github.com/aedan00/invest)  
 <span class="blank-line"></span>
 
 2024, Dublin Coffman Investment Club  

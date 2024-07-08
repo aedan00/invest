@@ -5,10 +5,11 @@ css: styles.css
 ---
 
 <span class="border-type-banner">
-Important Stock Market Basics & Review
+**Important Stock Market Basics & Review**
 </span>  
 
-<span class="smalltext-black">Click on **'Next'** to move to each section</span>
+<span class="smalltext-black">Click on **'Next'** to move to each section  
+**5 minute read time**</span>
 
 <div id="steps">
   <div id="step1">
@@ -44,7 +45,7 @@ We'll revisit Market-Cap soon, lets run through Share Price first.
 ### Share Price
 When trading stocks, most of the time you are buying & selling **shares**.  Shares represent small portions of companies. 
 
-<span class="smalltext-black">**Did you know Elon Musk has 200 million shares of Tesla?  
+<span class="smalltext-black">**Did you know Elon Musk has 200 million shares of Tesla (TSLA)?  
 Companies have hundreds of millions of shares total, some having billions of shares outstanding.** </span>
 
   </div>
@@ -116,7 +117,7 @@ In the end, demand of a stock is influenced by the performance of the company, m
   <div id="step12" style="display: none;">
 ### -----------------------------------
 
-The next couple sections will go by faster and will simply highlight additional key terms.  
+The next couple sections will go by faster and will  highlight additional key terms.  
 
   </div>
 
@@ -130,15 +131,18 @@ Volume can be used to represent how active a stock is.
 
   <div id="step14" style="display: none;">
 ### Indexes
-Have you heard of the NASDAQ, DOW JONES, or S&P 500?  
-Chances are, you've likely heard them on TV.
+NASDAQ, DOW JONES, S&P 500?  
+Do those names ring a bell?
+
+These are called indexes, and they measure the overall performance of their sectors or subsets.
 
   </div>
 
   <div id="step15" style="display: none;">
 
-These are called indexes, and they measure their overall sector's performance.
+Sectors are the various industries within the stock market as a whole.
 
+**Prominent Indexes:**  
 **NASDAQ:** technology and software sector  
 **DOW JONES:** the 30 largest US companies  
 **S&P 500:** the 500 largest US companies
@@ -155,16 +159,16 @@ These indexes are often used to measure the wellbeing of the overall stock marke
 ### Earning Reports
 Earning reports are one of the **most crucial factors** within the stock market.
 
-They highlight a company's performance and economic factors.
+At its core, they highlight a company's performance and economic state.
 
 These include the revenue, net-income, EPS, forecast, and other factors of the company. <span class= "smalltext-black">(To be covered later on)</span>
 
   </div>
 
   <div id="step18" style="display: none;">
-They play a critical role in determining stock movement and they often lead to significant volatility and rapid price changes.
+They play a critical role in determining price movement and they often lead to significant volatility and rapid price changes.
 
-We will discuss earnings reports, their significance, and how to read them, when we cover **Fundamental Analysis**.
+Because **earnings are important** and advanced, we will fully cover them when we start **Fundamental Analysis**.
 
   </div>
 
@@ -177,15 +181,21 @@ This tutorial has covered the essentials and groundwork related to stocks, which
 
   <div id="step20" style="display: none;">
 <span class="smalltext-black">
-**Written by:** Aedan Liao</span>
+**Written by:** Aedan Liao  
+**Originally Published:** 7/3/2024  
+**Last Revised:** 7/5/2024</span>
 
   </div>
 
-  <!-- <div id="step21" style="display: none;">
-### Step 21
-Text for step 21.
-  </div>
+  <div id="step21" style="display: none;">
+<!-- transition -->
+We value your feedback!
+Let us know what you thought about this tutorial and how it can be improved.
+[Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdJyTuxvnm-5b3sZTM52nhWeEhg0P3Z20WZVA86AX3uHJrwpw/viewform)
 
+  </div>
+  
+  <!--
   <div id="step22" style="display: none;">
 ### Step 22
 Text for step 22.

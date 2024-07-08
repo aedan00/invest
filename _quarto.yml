@@ -9,6 +9,7 @@ website:
         text: Home
       - guide.qmd
       - tutorial1.qmd
+      - tutorial2.qmd
       - about.qmd
 
 format:

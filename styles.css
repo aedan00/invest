@@ -1,7 +1,7 @@
 /* css styles */
 
 body {
-    background-image: url('invest-background.png');
+    background-image: url('invest-background-medium.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -17,6 +17,14 @@ body {
 .highlight1 {
     color: #006400; /* Dark green */
     font-size: 0.9em;
+}
+
+.border-type-1 {
+    display: inline-block;  
+    background-color: #08726a; 
+    padding: 10px; 
+    border: transparent; 
+    border-radius: 10px;
 }
 
 .border-type-banner {

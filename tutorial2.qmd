@@ -4,9 +4,260 @@ format: html
 css: styles.css
 ---
 <span class="border-type-banner">
-Intro to Other Investing Practices
+**Other Investing Practices**
 </span>  
 
-<span class="smalltext-black">Click on **'Next'** to move to each section</span>
+<span class="smalltext-black">Click on **'Next'** to move to each section  
 
+tag: proactive-release</span>
 
+<div id="steps">
+  <div id="step1">
+### Intro
+This tutorial will explore other various investing options in today’s stock market, including short-selling, ETFs, leveraged ETFs, ~~and an intro to Option Trading~~. The goal is to provide you with a more comprehensive view of different types of trading approaches. 
+<span class="minitext-black">Option trading will be getting its own seperate tutorial</span>
+
+  </div>
+
+  <div id="step2" style="display: none;">
+### Why?
+There are many reasons why one would want to use a different trading approach, rather than buying and selling a stock.
+
+Some approaches offer more stability and less risk, while others can offer higher risk and higher reward.
+
+  </div>
+
+  <div id="step3" style="display: none;">
+### Exchange Traded Funds (ETFs)
+One popular investing strategy is investing in ETFs.
+
+ETFs are securities that can be bought and sold like stocks. They are funds that measure the movement of a collection of stocks or an index.
+
+  </div>
+
+  <div id="step4" style="display: none;">
+
+An Stock ETF is an ETF that acts as a basket of stocks, and the ETF takes the average performance of each stock, combining them to determine the overall movement of the individual ETF.
+
+Take the ETF: (CIBR). This ETF measures the average performance of several cybersecurity companies.  
+(CIBR) is composed of percentages from each public company in the cybersecurity sector, making it a **Stock ETF**.
+
+  </div>
+
+  <div id="step5" style="display: none;">
+
+An Index ETF is an ETF that monitors the movement of a certain index. 
+
+Index ETFs are a relatively low risk investment choice, as indexes tend to be less volatile.
+
+An example of an Index ETF is the Vanguard S&P 500 ETF (VOO). This ETF, (you can probably guess), mimics the movement of the S&P 500 index.
+
+  </div>
+
+  <div id="step6" style="display: none;">
+
+Stock and Index ETFs are popular choices for medium and long term investors.
+
+This is because the major prominent indexes, such as the NASDAQ, GSPC (S&P 500), and DOW, tend to **rise** upwards at a **steady** pace, which additionally draws stock prices up.
+
+  </div>
+
+  <div id="step7" style="display: none;">
+### Leveraged ETFs
+Moving away from conventional ETFs, Leveraged ETFs, or (LETFs) are **higher risk, higher reward** scenario choices. 
+
+While conventional ETFs track a security at a steady 1:1 ratio, Leveraged ETFs (LETFs) aim for a higher yield ratio.
+
+  </div>
+
+  <div id="step8" style="display: none;">
+
+Many leveraged ETFs move at a **2:1 or even 3:1 ratio**.
+
+For example, take a 3:1 leveraged ETF that specifically tracked the stock of NVIDIA (NVDA).  
+If on this specific day, NVDA increased by 3%, the leveraged ETF would increase by 9%, as 3% at a 3:1 ratio would become **9%**.
+
+  </div>
+
+  <div id="step9" style="display: none;">
+
+This aspect highlights the **high-risk** nature of many leveraged ETFs
+
+  </div>
+
+  <div id="step10" style="display: none;">
+### LETF Decay
+We have just highlighted the risk behind leveraged ETFs, ( LETFs).
+
+Despite that, leveraged ETFs carry another concern.
+
+  </div>
+
+  <div id="step11" style="display: none;">
+
+Diverging from LETFs for a moment:  
+<span class="smalltext-black">**“When you lose money, it becomes harder to make that money back”.**</span>
+
+**A vivid example of this fact can be demonstrated:**
+
+<span class="smalltext-black"> - You start with $100  
+- You lose 10%, bringing the total to $90  
+- You then regain 10%, but 10% of $90 is only $9  
+- This means after a 10% loss, then a following 10% gain, you’re at $99  </span>
+
+  </div>
+
+  <div id="step12" style="display: none;">
+
+We started with $100, but now we’re a dollar short? 
+This is called **decay**.
+
+  </div>
+
+  <div id="step13" style="display: none;">
+
+**Coming back to leveraged ETF scenario with a 3:1 LETF:**
+
+<span class="smalltext-black"> - You start with $100  
+- The stock loses 10%, meaning the LETF loses 30%  
+- You now have $70  
+- The stock regains 10%, meaning the LETF gains 30%  
+- $70 multiplied by 1.30 equals $91</span>
+
+  </div>
+
+  <div id="step14" style="display: none;">
+
+Here, **we started with $100, but now have $91 left, meaning a 9% loss!**  
+We then start to see the significantly higher decay possible when trading leveraged ETFs.
+
+Trading leveraged ETFs is extremely risky and isn't advised unless you fully understand how they work.
+  </div>
+
+  <div id="step15" style="display: none;">
+### Short Selling
+Moving on, let’s discuss short-selling and covering.
+
+  </div>
+
+  <div id="step16" style="display: none;">
+
+**NOTE:** Short-selling is not the same thing as selling, <span class = "minitext-black">(not even remotely accurate).</span>
+
+Short-selling will be referred to as “shorting” for the rest of this tutorial.
+
+  </div>
+
+  <div id="step17" style="display: none;">
+
+We know that when buying shares, you aim for the stock price to rise.
+
+However, with shorting, you instead are betting that the stock price will decline.
+
+  </div>
+
+  <div id="step18" style="display: none;">
+**Example**:  
+Let’s say you see JP Morgan Chase (JPM) at $210/share.  
+They then release a negative earnings report with shrinking revenue. <span class = "minitext-black">(earnings reports etc. be covered in **Fundamental Analysis**).</span>  
+Their stock would immediately decrease as a result, but you think they will continue to decline in the medium-term.
+
+In this case, you would **short** JPM, as you believe their stock price will continue to decrease.
+
+  </div>
+
+  <div id="step19" style="display: none;">
+### Covering the Short
+A month later, JPM is now $150. The net change is negative $60 from the original $210/share.  
+This means you made a $60 profit for each share shorted.
+
+However, now, you want to end your shorting position on JPM, and take the profit.  
+To *end a shorting position*, you would **cover** you short.
+
+Covering terminates your sell-short, and you pocket the net-change.
+
+  </div>
+
+  <div id="step20" style="display: none;">
+### The Internal Workings
+The way shorting works can be explained relatively easily, however, it isn’t very important. For that reason, it won’t be listed in the tutorial.  
+However, if you’re interested in reading how it works, an article explaining it is [here](https://www.schwab.com/learn/story/ins-and-outs-short-selling#:~:text=Short%20selling%20involves%20borrowing%20a,broker%2C%20and%20pocket%20the%20difference.).
+
+  </div>
+
+  <div id="step21" style="display: none;">
+### The Limiting Factor
+Shorting **has a limit** on the amount of returns you can achieve.
+
+This contrasts from buying & selling, where the returns have an infinite potential to rise, as share price can theoretically go to infinity.
+
+  </div>
+
+  <div id="step22" style="display: none;">
+
+Remember, when short-selling, you’re betting the stock price will go down. But stock price can **never go below zero**, therefore limiting the returns possible from short-selling.
+
+Shorting stocks is a risky trading approach, as the losses are theoretically infinite, but the gains are limited to 100%.
+
+  </div>
+
+  <div id="step23" style="display: none;">
+### --- Conclusion ---
+You’ve finished reading the tutorial for “Other Investing Practices”.   
+This tutorial has covered several other trading approaches that are used in today’s stock market. Understanding different approaches and their risk factors is vital towards building a successful portfolio.
+
+  </div>
+
+  <div id="step24" style="display: none;">
+
+<span class="smalltext-black">**Originally Published:** 7/7/2024
+<!--Last Revised: 7/5/2024--></span>
+
+  </div>
+
+  <div id="step25" style="display: none;">
+  
+We value your feedback!
+Let us know what you thought about this tutorial and how it can be improved.
+[Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdJyTuxvnm-5b3sZTM52nhWeEhg0P3Z20WZVA86AX3uHJrwpw/viewform)
+
+  </div>
+
+  <button id="nextButton">Next</button>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var currentStep = 1;
+  var totalSteps = 25; // Total number of steps
+
+  document.getElementById("nextButton").addEventListener("click", function() {
+    var nextStep = document.getElementById("step" + (currentStep + 1));
+    if (nextStep) {
+      nextStep.style.display = "block";
+      currentStep++;
+    }
+    this.parentNode.insertBefore(this, document.getElementById("step" + currentStep).nextSibling);
+    if (currentStep === totalSteps) {
+      this.remove(); // Remove the "Next" button after the last step
+    }
+  });
+});
+</script>
+
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('white-background-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+  }
+
+  #steps {
+    padding: 20px;
+    box-sizing: border-box;
+  }
+</style>

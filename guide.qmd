@@ -4,8 +4,8 @@ format: html
 ---
 <span class="blank-line"></span>
 
-Throughout the year, we'll explore various investing tactics.  
-Exchange stock ideas and information during our meetings.
+Throughout the year, we'll explore various investing tactics.   
+Stock ideas and information will also be exchanged.
 
 **The full list of topics we will cover this year include, but are not limited to:**
 <div class="small-table">
@@ -28,7 +28,7 @@ Exchange stock ideas and information during our meetings.
 | **Sections**                                |                                              |
 |---------------------------------------------|----------------------------------------------|
 | Important Stock Market Basics & Review      | <span class="smalltext-black">(Tutorial Available)</span>                         |
-| Intro To Other Investing Practices          | <!-- -->                         |
+| Other Investing Practices          | <span class="smalltext-black">(Tutorial Available)</span>                         |
 | Fundamental Analysis (Pt. 1)                | <!-- -->                         |
 | Fundamental Analysis (Pt. 2)                | <!-- -->                         |
 | Option Trading                              | <!-- -->                         |

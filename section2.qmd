@@ -1,5 +1,5 @@
 ---
-title: "Tutorial-2"
+title: "Section-2"
 format: html
 css: styles.css
 ---
@@ -7,15 +7,13 @@ css: styles.css
 **Other Investing Practices**
 </span>  
 
-<span class="smalltext-black">Click on **'Next'** to move to each section  
-
-tag: proactive-release</span>
+<span class="smalltext-black">Click on **'Next'** to move to each section  </span>
 
 <div id="steps">
   <div id="step1">
 ### Intro
-This tutorial will explore other various investing options in today’s stock market, including short-selling, ETFs, leveraged ETFs, ~~and an intro to Option Trading~~. The goal is to provide you with a more comprehensive view of different types of trading approaches. 
-<span class="minitext-black">Option trading will be getting its own seperate tutorial</span>
+This section will explore other various investing options in today’s stock market, including short-selling, ETFs, leveraged ETFs, ~~and an intro to Option Trading~~. The goal is to provide you with a more comprehensive view of different types of trading approaches. 
+<span class="minitext-black">Option trading will be getting its own seperate section</span>
 
   </div>
 
@@ -58,7 +56,7 @@ An example of an Index ETF is the Vanguard S&P 500 ETF (VOO). This ETF, (you can
 
 Stock and Index ETFs are popular choices for medium and long term investors.
 
-This is because the major prominent indexes, such as the NASDAQ, GSPC (S&P 500), and DOW, tend to **rise** upwards at a **steady** pace, which additionally draws stock prices up.
+This is because the prominent indexes, such as the NASDAQ, GSPC (S&P 500), and DOW, tend to **rise** upwards at a **steady** pace, therefore supporting ETFs.
 
   </div>
 
@@ -72,7 +70,7 @@ While conventional ETFs track a security at a steady 1:1 ratio, Leveraged ETFs (
 
   <div id="step8" style="display: none;">
 
-Many leveraged ETFs move at a **2:1 or even 3:1 ratio**.
+Many leveraged ETFs move at a **2:1 or even 3:1 ratio**, this means either **2x or even 3x volatility**.
 
 For example, take a 3:1 leveraged ETF that specifically tracked the stock of NVIDIA (NVDA).  
 If on this specific day, NVDA increased by 3%, the leveraged ETF would increase by 9%, as 3% at a 3:1 ratio would become **9%**.
@@ -81,7 +79,7 @@ If on this specific day, NVDA increased by 3%, the leveraged ETF would increase 
 
   <div id="step9" style="display: none;">
 
-This aspect highlights the **high-risk** nature of many leveraged ETFs
+This aspect highlights the **high-risk** nature of many leveraged ETFs.
 
   </div>
 
@@ -131,7 +129,7 @@ This is called **decay**.
 Here, **we started with $100, but now have $91 left, meaning a 9% loss!**  
 We then start to see the significantly higher decay possible when trading leveraged ETFs.
 
-Trading leveraged ETFs is extremely risky and isn't advised unless you fully understand how they work.
+Trading leveraged ETFs is extremely risky and isn't advised unless you fully understand how they function.
   </div>
 
   <div id="step15" style="display: none;">
@@ -144,15 +142,15 @@ Moving on, let’s discuss short-selling and covering.
 
 **NOTE:** Short-selling is not the same thing as selling, <span class = "minitext-black">(not even remotely accurate).</span>
 
-Short-selling will be referred to as “shorting” for the rest of this tutorial.
+Short-selling will be referred to as “shorting” for the rest of this section.
 
   </div>
 
   <div id="step17" style="display: none;">
 
-We know that when buying shares, you aim for the stock price to rise.
+We already know that when *buying* shares, you aim for the stock price to rise.
 
-However, with shorting, you instead are betting that the stock price will decline.
+However, with *shorting*, you instead are betting that the stock price will decline.
 
   </div>
 
@@ -180,14 +178,14 @@ Covering terminates your sell-short, and you pocket the net-change.
 
   <div id="step20" style="display: none;">
 ### The Internal Workings
-The way shorting works can be explained relatively easily, however, it isn’t very important. For that reason, it won’t be listed in the tutorial.  
-However, if you’re interested in reading how it works, an article explaining it is [here](https://www.schwab.com/learn/story/ins-and-outs-short-selling#:~:text=Short%20selling%20involves%20borrowing%20a,broker%2C%20and%20pocket%20the%20difference.).
+The behind-the-scenes workings of short-selling can be explained relatively easily, however, they aren't very important. For that reason, it won’t be listed here.  
+However, if you’re interested in reading about it, an article explaining it is [here](https://www.schwab.com/learn/story/ins-and-outs-short-selling#:~:text=Short%20selling%20involves%20borrowing%20a,broker%2C%20and%20pocket%20the%20difference.).
 
   </div>
 
   <div id="step21" style="display: none;">
 ### The Limiting Factor
-Shorting **has a limit** on the amount of returns you can achieve.
+Shorting additionally **has a limit** on the amount of returns you can achieve.
 
 This contrasts from buying & selling, where the returns have an infinite potential to rise, as share price can theoretically go to infinity.
 
@@ -195,30 +193,30 @@ This contrasts from buying & selling, where the returns have an infinite potenti
 
   <div id="step22" style="display: none;">
 
-Remember, when short-selling, you’re betting the stock price will go down. But stock price can **never go below zero**, therefore limiting the returns possible from short-selling.
+This is because, in short-selling, you’re betting the stock price will go down. But stock price can **never go below zero**, therefore limiting the returns possible from short-selling.
 
-Shorting stocks is a risky trading approach, as the losses are theoretically infinite, but the gains are limited to 100%.
+Shorting stocks is a risky trading approach, as the losses are theoretically infinite, but the gains are limited.
 
   </div>
 
   <div id="step23" style="display: none;">
 ### --- Conclusion ---
-You’ve finished reading the tutorial for “Other Investing Practices”.   
-This tutorial has covered several other trading approaches that are used in today’s stock market. Understanding different approaches and their risk factors is vital towards building a successful portfolio.
+You’ve finished reading the section for “Other Investing Practices”.   
+This section has covered several other trading approaches that are used in today’s stock market. Understanding different approaches and their risk factors is vital towards building a successful portfolio.
 
   </div>
 
   <div id="step24" style="display: none;">
 
-<span class="smalltext-black">**Originally Published:** 7/7/2024
-<!--Last Revised: 7/5/2024--></span>
+<span class="smalltext-black">**Originally Published:** 7/7/2024  
+**Last Revised:** 7/8/2024</span>
 
   </div>
 
   <div id="step25" style="display: none;">
   
 We value your feedback!
-Let us know what you thought about this tutorial and how it can be improved.
+Let us know what you thought about this section and how it can be improved.
 [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdJyTuxvnm-5b3sZTM52nhWeEhg0P3Z20WZVA86AX3uHJrwpw/viewform)
 
   </div>
@@ -261,3 +259,9 @@ document.addEventListener("DOMContentLoaded", function() {
     box-sizing: border-box;
   }
 </style>
+
+<br>
+
+<div class="nav-right">
+ | [Home](index.qmd){style="color: #373737;"} | [About](about.qmd){style="color: #373737;"}
+</div>

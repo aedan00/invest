@@ -97,12 +97,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tutorial1.html"> 
-<span class="menu-text">Tutorial-1</span></a>
+    <a class="nav-link" href="./section1.html"> 
+<span class="menu-text">Section-1</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tutorial2.html"> 
-<span class="menu-text">Tutorial-2</span></a>
+    <a class="nav-link" href="./section2.html"> 
+<span class="menu-text">Section-2</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
@@ -189,8 +189,7 @@ Stock ideas and information will also be exchanged.</p>
 </table>
 </div>
 <hr>
-<p><span class="smalltext-black"><strong><em>The topics <span class="smalltext-black">(listed above)</span> will be divided and placed into sections, with each section being noted below.</em></strong></span></p>
-<hr>
+<p><span class="smalltext-black"><strong><em>The topics <span class="smalltext-black">(listed above)</span> are divided and placed into sections, with each section being noted below.</em></strong></span></p>
 <table class="table">
 <colgroup>
 <col style="width: 49%">
@@ -205,15 +204,15 @@ Stock ideas and information will also be exchanged.</p>
 <tbody>
 <tr class="odd">
 <td>Important Stock Market Basics &amp; Review</td>
-<td><span class="smalltext-black">(Tutorial Available)</span></td>
+<td><span class="smalltext-black">(Available)</span></td>
 </tr>
 <tr class="even">
 <td>Other Investing Practices</td>
-<td><span class="smalltext-black">(Tutorial Available)</span></td>
+<td><span class="smalltext-black">(Available)</span></td>
 </tr>
 <tr class="odd">
 <td>Fundamental Analysis (Pt. 1)</td>
-<td><!-- --></td>
+<td><span class="smalltext-black">(In Development)</span></td>
 </tr>
 <tr class="even">
 <td>Fundamental Analysis (Pt. 2)</td>
@@ -338,7 +337,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/invest\.quarto\.pub\/dchs-invest");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -97,12 +97,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tutorial1.html"> 
-<span class="menu-text">Tutorial-1</span></a>
+    <a class="nav-link" href="./section1.html"> 
+<span class="menu-text">Section-1</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tutorial2.html"> 
-<span class="menu-text">Tutorial-2</span></a>
+    <a class="nav-link" href="./section2.html"> 
+<span class="menu-text">Section-2</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
@@ -155,7 +155,7 @@ Hayden Reheiser</p>
 <p><strong>Committee Members:</strong><br>
 Kushanu Bhattacharya</p>
 <hr>
-<p><span class="smalltext-black">This website’s version history can be found <a href="https://github.com/aedan00/invest">here</a><br>
+<p><span class="smalltext-black">Version history can be found <a href="https://github.com/aedan00/invest">here</a><br>
 <span class="blank-line"></span></span></p>
 <p>2024, Dublin Coffman Investment Club<br>
 <span class="smalltext-black"><strong>Site powered by Quarto</strong></span><br>
@@ -249,7 +249,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/invest\.quarto\.pub\/dchs-invest");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -1,5 +1,5 @@
 ---
-title: "Tutorial-1"
+title: "Section-1"
 format: html
 css: styles.css
 ---
@@ -14,10 +14,10 @@ css: styles.css
 <div id="steps">
   <div id="step1">
 ### Intro
-This tutorial covers foundational stock terms and their interconnections. Its aim is to establish a solid foundation in stocks, laying the groundwork for upcoming content.
+This section covers foundational stock terms and their interconnections. Its aim is to establish a solid foundation in stocks, laying the groundwork for upcoming content.
 
-*For intermediate to more advanced traders, this tutorial would serve only as a refresher.*  
-<span class="something1">Tutorials and topics with more advanced content are on their way and will be covered when we move to **Fundamental Analysis** and **Technical Analysis**.</span>
+*For intermediate to more advanced traders, this section would serve only as a refresher.*  
+<span class="something1">Sections with more advanced content are on their way and will be covered when we move to **Fundamental Analysis** and **Technical Analysis**.</span>
 
 **The 'Guide' page contains the full list of topics and strategies.**
 
@@ -174,8 +174,8 @@ Because **earnings are important** and advanced, we will fully cover them when w
 
   <div id="step19" style="display: none;">
 ### --- Conclusion ---
-You've finished reading the Tutorial for "Important Stock Market Basics".  
-This tutorial has covered the essentials and groundwork related to stocks, which will be crucial for our future material and discussions.
+You've finished reading the section for "Important Stock Market Basics".  
+This section has covered the essentials and groundwork related to stocks, which will be crucial for our future material and discussions.
 
   </div>
 
@@ -190,7 +190,7 @@ This tutorial has covered the essentials and groundwork related to stocks, which
   <div id="step21" style="display: none;">
 <!-- transition -->
 We value your feedback!
-Let us know what you thought about this tutorial and how it can be improved.
+Let us know what you thought about this section and how it can be improved.
 [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdJyTuxvnm-5b3sZTM52nhWeEhg0P3Z20WZVA86AX3uHJrwpw/viewform)
 
   </div>

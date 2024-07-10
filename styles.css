@@ -19,14 +19,6 @@ body {
     font-size: 0.9em;
 }
 
-.border-type-1 {
-    display: inline-block;  
-    background-color: #08726a; 
-    padding: 10px; 
-    border: transparent; 
-    border-radius: 10px;
-}
-
 .border-type-banner {
     display: inline-block;  
     background-color: #bde3b6; 

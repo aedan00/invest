@@ -8,7 +8,7 @@ css: styles.css
 **Important Stock Market Basics & Review**
 </span>  
 
-<span class="smalltext-black">Click on **'Next'** to move to each section  
+<span class="smalltext-black">Click on **'Next'** to move to each segment  
 **5 minute read time**</span>
 
 <div id="steps">

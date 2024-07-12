@@ -17,7 +17,7 @@ view **[our guide](guide.qmd){style="color: #03ac13;"}**.
 
 ***View our tri-fold board below: ***
 <span class="smalltext-black"> (made by Hayden R. and Aedan L.) </span>
-<img src="trifold-no3.png" alt="text" width="600" /> 
+<img src="trifold-no4.png" alt="text" width="600" /> 
 
 <span class="border-type-banner">
 It is recommended to read **[this](section1.qmd){style="color: #bf9000;"}** before our first meeting in September.

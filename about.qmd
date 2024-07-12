@@ -14,15 +14,13 @@ Aedan Liao
 **Co-President:**  
 Hayden Reheiser
 
-**Committee Members:**  
-Kushanu Bhattacharya
-
 ---
 
 <span class="smalltext-black">Version history can be found [here](https://github.com/aedan00/invest)  
 <span class="blank-line"></span>
 
 2024, Dublin Coffman Investment Club  
+<span class="minitext-black">[Contact Us](https://docs.google.com/forms/d/e/1FAIpQLSdLxZ6DYcz5HYKBtKoAKnGm_lclOIXt8CGdHUnXK0fDavQB1Q/viewform)</span>  
 <span class="smalltext-black">**Site powered by Quarto**</span>  
 <span class="blank-line"></span>
 

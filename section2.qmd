@@ -7,7 +7,7 @@ css: styles.css
 **Other Investing Practices**
 </span>  
 
-<span class="smalltext-black">Click on **'Next'** to move to each section  </span>
+<span class="smalltext-black">Click on **'Next'** to move to each segment  </span>
 
 <div id="steps">
   <div id="step1">

@@ -2,26 +2,23 @@
 title: "About Us"
 ---
 
-<span class="smalltext-black">**This site is newly launched, and is proactively being updated.**</span>  
-<span class="blank-line"></span>
+<span class = "border-type-banner-alert"><span class="something1">This site is newly launched, and is proactively being updated.</span>  
+<span class="blank-line"></span></span>
 
 **Advisor:**  
-Mr. Woodmansee
-
+<span class="something1">Mr. Woodmansee</span>  
 **Co-President & Founder:**  
-Aedan Liao
-
+<span class="something1">Aedan Liao</span>  
 **Co-President:**  
-Hayden Reheiser
+<span class="something1">Hayden Reheiser</span>  
 
 ---
 
-<span class="smalltext-black">Version history can be found [here](https://github.com/aedan00/invest)  
-<span class="blank-line"></span>
+<!-- <span class="smalltext-black">Version history can be found [here](https://github.com/aedan00/invest)  
+<span class="blank-line"> </span> -->
 
-2024, Dublin Coffman Investment Club  
-<span class="minitext-black">[Contact Us](https://docs.google.com/forms/d/e/1FAIpQLSdLxZ6DYcz5HYKBtKoAKnGm_lclOIXt8CGdHUnXK0fDavQB1Q/viewform)</span>  
-<span class="smalltext-black">**Site powered by Quarto**</span>  
+<span class="smalltext-black">**Dublin Coffman Investment Club**  
+Site powered by Quarto</span>  
 <span class="blank-line"></span>
 
 <br>
@@ -29,3 +26,10 @@ Hayden Reheiser
 <div class="nav-right">
  | [Home](index.qmd){style="color: #373737;"}
 </div>
+
+<style>
+  body {
+    background-image: url('invest-background-narrow.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }

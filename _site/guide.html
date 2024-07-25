@@ -97,14 +97,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./section1.html"> 
-<span class="menu-text">Section-1</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./section2.html"> 
-<span class="menu-text">Section-2</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About Us</span></a>
   </li>  
@@ -147,43 +139,51 @@ ul.task-list li input[type="checkbox"] {
 <p><span class="blank-line"></span></p>
 <p>Throughout the year, we’ll explore various investing tactics.<br>
 Stock ideas and information will also be exchanged.</p>
-<strong>The full list of topics we will cover this year include, but are not limited to:</strong>
+<strong>The full list of topics/tactics include, but are not limited to:</strong>
 <div class="small-table">
 <table class="table">
 <colgroup>
-<col style="width: 43%">
-<col style="width: 56%">
+<col style="width: 28%">
+<col style="width: 37%">
+<col style="width: 34%">
 </colgroup>
 <thead>
 <tr class="header">
 <th><strong>Intro</strong></th>
 <th><strong>Intermediate</strong></th>
+<th><strong>Advanced</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>- Buying &amp; Selling</td>
 <td>- Dividends</td>
+<td>- Option Trading</td>
 </tr>
 <tr class="even">
 <td>- Shorting &amp; Covering</td>
 <td>- Indexes, index funds, ETFs</td>
+<td>- Futures</td>
 </tr>
 <tr class="odd">
-<td>- Volume, market-cap, PE ratio, beta</td>
+<td>- Volume, market-cap, PE ratio</td>
 <td>- Volatilities</td>
+<td>- Fundamental Analysis <span class="small-text-black">(continued)</span></td>
 </tr>
 <tr class="even">
-<td>- Basic factors affecting stock price</td>
+<td>- Factors affecting share value</td>
 <td>- Option trading (puts &amp; calls)</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>- Acquisitions (impact)</td>
 <td>- Fundamental Analysis (earnings, financials)</td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td>- Technical Analysis (graphs, patterns, trends)</td>
+<td>- <del>Technical Analysis (graphs, patterns, trends)</del></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -191,10 +191,6 @@ Stock ideas and information will also be exchanged.</p>
 <hr>
 <p><span class="smalltext-black"><strong><em>The topics <span class="smalltext-black">(listed above)</span> are divided and placed into sections, with each section being noted below.</em></strong></span></p>
 <table class="table">
-<colgroup>
-<col style="width: 49%">
-<col style="width: 50%">
-</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Sections</strong></th>
@@ -204,30 +200,30 @@ Stock ideas and information will also be exchanged.</p>
 <tbody>
 <tr class="odd">
 <td>Important Stock Market Basics &amp; Review</td>
-<td><span class="smalltext-black">(Available)</span></td>
+<td><span class="smalltext-black"><a href="./section1.html">Available</a></span></td>
 </tr>
 <tr class="even">
 <td>Other Investing Practices</td>
-<td><span class="smalltext-black">(Available)</span></td>
+<td><span class="smalltext-black"><a href="./section2.html">Available</a></span></td>
 </tr>
 <tr class="odd">
 <td>Fundamental Analysis (Pt. 1)</td>
-<td><span class="smalltext-black">(In Development)</span></td>
+<td><span class="smalltext-black">(Arriving in v5.1)</span></td>
 </tr>
 <tr class="even">
 <td>Fundamental Analysis (Pt. 2)</td>
 <td><!-- --></td>
 </tr>
 <tr class="odd">
-<td>Option Trading</td>
+<td>Option Trading Pt. 1</td>
 <td><!-- --></td>
 </tr>
 <tr class="even">
-<td>Technical Analysis (Pt. 1)</td>
+<td>Option Trading Pt. 2</td>
 <td><!-- --></td>
 </tr>
 <tr class="odd">
-<td>Technical Analysis (Pt. 2)</td>
+<td>Technical Analysis &amp; Patterns</td>
 <td><!-- --></td>
 </tr>
 </tbody>
@@ -238,19 +234,11 @@ Stock ideas and information will also be exchanged.</p>
 </div>
 <style>
   body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
     background-image: url('invest-background-narrow.png');
     background-size: cover;
     background-repeat: no-repeat;
-    min-height: 100vh;
   }
 
-  #steps {
-    padding: 20px;
-    box-sizing: border-box;
-  }
 </style>
 
 
@@ -337,7 +325,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/aedan\.quarto\.pub\/investment-club");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

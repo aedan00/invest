@@ -1,6 +1,7 @@
 ---
 title: "Section-1"
 format: html
+author: "Aedan L"
 css: styles.css
 ---
 
@@ -115,9 +116,10 @@ In the end, demand of a stock is influenced by the performance of the company, m
   </div>
 
   <div id="step12" style="display: none;">
-### -----------------------------------
+An example was the outage involving CrowdStrike (CRWD).  
+After the report of the global outage in July, 2024, CRWD plunged 30% within three trading days
 
-The next couple sections will go by faster and will  highlight additional key terms.  
+### -----------------------------------
 
   </div>
 
@@ -181,9 +183,8 @@ This section has covered the essentials and groundwork related to stocks, which 
 
   <div id="step20" style="display: none;">
 <span class="smalltext-black">
-**Written by:** Aedan Liao  
 **Originally Published:** 7/3/2024  
-**Last Revised:** 7/5/2024</span>
+**Last Revised:** 7/24/2024</span>
 
   </div>
 
@@ -243,9 +244,9 @@ document.addEventListener("DOMContentLoaded", function() {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('white-background-1.png');
+    background-image: url('invest-background-tickers.png');
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     min-height: 100vh;
   }
 

@@ -10,18 +10,42 @@ css: styles.css
 [Join this group](https://dublin.schoology.com/group/7283420475) to register & receive updates.
 
 <span class = "highlight1">This club focuses on investments in the stock market and provides different strategies for positive returns in the stock market. Members are also able to execute realistic trades in a simulated environment.</span>  
-To see the full list of topics,
-view **[our guide](guide.qmd){style="color: #03ac13;"}**.
 
 ---
 
-***View our tri-fold board below: ***
-<span class="smalltext-black"> (made by Hayden R. and Aedan L.) </span>
-<img src="trifold-no4.png" alt="text" width="600" /> 
+<div class="grid-container">
 
-<span class="border-type-banner">
-It is recommended to read **[this](section1.qmd){style="color: #bf9000;"}** before our first meeting in September.
+  <div class="grid-item">
+<a href="trifold-loc.qmd">
+<img src="trifold-no4.png" alt="text" width="220" />
+<span class="mini-text">Click to expand</span>
+</a>
+  </div>
+  
+  <div class="grid-item background">
+<a href="guide.qmd">
+<span class="main-text">Explore All Topics</span>
+<span class="sub-text">View all strategies we'll cover relating to the stock market</span>
+</a>
+  </div>
+  
+  <div class="grid-item">
+<a href="<!-- -->">
+<span class="main-text">Next Meeting</span>
+<span class="sub-text">**September, 2024**  
+*(Date TBD)*</span>
+</a>
+  </div>
+  
+</div>
+
+---
+
+<!--<span class="smalltext-black"> 
+<span class="border-type-banner"> 
+**View [original info document](section1.qmd){style="color: #bf9000;"}**
 </span>
+</span>-->
 
 <br>
 

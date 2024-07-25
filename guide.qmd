@@ -7,16 +7,16 @@ format: html
 Throughout the year, we'll explore various investing tactics.   
 Stock ideas and information will also be exchanged.
 
-**The full list of topics we will cover this year include, but are not limited to:**
+**The full list of topics/tactics include, but are not limited to:**
 <div class="small-table">
-| **Intro**                          | **Intermediate**                              |
-|------------------------------------|-----------------------------------------------|
-| - Buying & Selling                 | - Dividends                                   |
-| - Shorting & Covering              | - Indexes, index funds, ETFs                  |
-| - Volume, market-cap, PE ratio, beta| - Volatilities                                |
-| - Basic factors affecting stock price| - Option trading (puts & calls)              |
-| - Acquisitions (impact)            | - Fundamental Analysis (earnings, financials) |
-|                                    | - Technical Analysis (graphs, patterns, trends)|
+| **Intro**                          | **Intermediate**                              |   **Advanced**                            |
+|------------------------------------|-----------------------------------------------|-------------------------------------------|
+| - Buying & Selling                 | - Dividends                                   | - Option Trading                          |
+| - Shorting & Covering              | - Indexes, index funds, ETFs                  | - Futures                                 |
+| - Volume, market-cap, PE ratio     | - Volatilities                                | - Fundamental Analysis <span class="small-text-black">(continued)</span>|
+| - Factors affecting share value     | - Option trading (puts & calls)              |                                          |
+| - Acquisitions (impact)            | - Fundamental Analysis (earnings, financials) |                                           |
+|                                    | - ~~Technical Analysis (graphs, patterns, trends)~~|                                          |
 </div>
 ---
 
@@ -24,15 +24,15 @@ Stock ideas and information will also be exchanged.
 
 
 
-| **Sections**                                |                                              |
-|---------------------------------------------|----------------------------------------------|
-| Important Stock Market Basics & Review      | <span class="smalltext-black">(Available)</span>                         |
-| Other Investing Practices          | <span class="smalltext-black">(Available)</span>                         |
-| Fundamental Analysis (Pt. 1)                | <span class="smalltext-black">(In Development)</span>                         |
+| **Sections**                            |                                              |
+|-----------------------------------------|----------------------------------------------|
+| Important Stock Market Basics & Review      | <span class="smalltext-black">[Available](section1.qmd)</span>                         |
+| Other Investing Practices          | <span class="smalltext-black">[Available](section2.qmd)</span>                         |
+| Fundamental Analysis (Pt. 1)                | <span class="smalltext-black">(Arriving in v5.1)</span>                         |
 | Fundamental Analysis (Pt. 2)                | <!-- -->                         |
-| Option Trading                              | <!-- -->                         |
-| Technical Analysis (Pt. 1)                  | <!-- -->                         |
-| Technical Analysis (Pt. 2)                  | <!-- -->      
+| Option Trading Pt. 1                              | <!-- -->                         |
+| Option Trading Pt. 2                  | <!-- -->                         |
+| Technical Analysis & Patterns                  | <!-- -->      
 
 <br>
 
@@ -42,17 +42,9 @@ Stock ideas and information will also be exchanged.
 
 <style>
   body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
     background-image: url('invest-background-narrow.png');
     background-size: cover;
     background-repeat: no-repeat;
-    min-height: 100vh;
   }
 
-  #steps {
-    padding: 20px;
-    box-sizing: border-box;
-  }
 </style>

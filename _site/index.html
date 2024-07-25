@@ -97,14 +97,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./section1.html"> 
-<span class="menu-text">Section-1</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./section2.html"> 
-<span class="menu-text">Section-2</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About Us</span></a>
   </li>  
@@ -147,11 +139,26 @@ ul.task-list li input[type="checkbox"] {
 <p><span class="blank-line"></span></p>
 <p><span class="highlight"><strong>Investment Club starts in September 2024.</strong></span></p>
 <p><a href="https://dublin.schoology.com/group/7283420475">Join this group</a> to register &amp; receive updates.</p>
-<p><span class="highlight1">This club focuses on investments in the stock market and provides different strategies for positive returns in the stock market. Members are also able to execute realistic trades in a simulated environment.</span><br>
-To see the full list of topics, view <strong><a href="./guide.html" style="color: #03ac13;">our guide</a></strong>.</p>
+<p><span class="highlight1">This club focuses on investments in the stock market and provides different strategies for positive returns in the stock market. Members are also able to execute realistic trades in a simulated environment.</span></p>
 <hr>
-<p><strong><em>View our tri-fold board below: </em></strong> <span class="smalltext-black"> (made by Hayden R. and Aedan L.) </span> <img src="trifold-no3.png" alt="text" width="600"></p>
-<p><span class="border-type-banner"> It is recommended to read <strong><a href="./section1.html" style="color: #bf9000;">this</a></strong> before our first meeting in September. </span></p>
+<div class="grid-container">
+<div class="grid-item">
+<a href="./trifold-loc.html"> <img src="trifold-no4.png" alt="text" width="220"> <span class="mini-text">Click to expand</span> </a>
+</div>
+<div class="grid-item background">
+<a href="./guide.html"> <span class="main-text">Explore All Topics</span> <span class="sub-text">View all strategies we’ll cover relating to the stock market</span> </a>
+</div>
+<div class="grid-item">
+<a href="<!-- -->"> <span class="main-text">Next Meeting</span> <span class="sub-text"><strong>September, 2024</strong><br>
+<em>(Date TBD)</em></span> </a>
+</div>
+</div>
+<hr>
+<!--<span class="smalltext-black"> 
+<span class="border-type-banner"> 
+**View [original info document](section1.qmd){style="color: #bf9000;"}**
+</span>
+</span>-->
 <p><br></p>
 <div class="nav-right">
 <p>| <a href="./about.html" style="color: #373737;">About</a></p>
@@ -241,7 +248,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/aedan\.quarto\.pub\/investment-club");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

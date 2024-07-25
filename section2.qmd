@@ -1,6 +1,7 @@
 ---
 title: "Section-2"
 format: html
+author: "Aedan L"
 css: styles.css
 ---
 <span class="border-type-banner">
@@ -184,8 +185,8 @@ However, if you’re interested in reading about it, an article explaining it is
   </div>
 
   <div id="step21" style="display: none;">
-### The Limiting Factor
-Shorting additionally **has a limit** on the amount of returns you can achieve.
+### The Bottom Is The Ceiling
+Shorting additionally **has a ceiling** on the amount of returns you can achieve.
 
 This contrasts from buying & selling, where the returns have an infinite potential to rise, as share price can theoretically go to infinity.
 
@@ -195,7 +196,7 @@ This contrasts from buying & selling, where the returns have an infinite potenti
 
 This is because, in short-selling, you’re betting the stock price will go down. But stock price can **never go below zero**, therefore limiting the returns possible from short-selling.
 
-Shorting stocks is a risky trading approach, as the losses are theoretically infinite, but the gains are limited.
+Shorting stocks is a risky trading approach, as the losses are theoretically infinite, but the gains are limited and finite.
 
   </div>
 
@@ -208,8 +209,9 @@ This section has covered several other trading approaches that are used in today
 
   <div id="step24" style="display: none;">
 
-<span class="smalltext-black">**Originally Published:** 7/7/2024  
-**Last Revised:** 7/8/2024</span>
+<span class="smalltext-black">
+**Originally Published:** 7/7/2024  
+**Last Revised:** 7/24/2024</span>
 
   </div>
 
@@ -248,9 +250,9 @@ document.addEventListener("DOMContentLoaded", function() {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('white-background-1.png');
+    background-image: url('invest-background-narrow.png');
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     min-height: 100vh;
   }
 

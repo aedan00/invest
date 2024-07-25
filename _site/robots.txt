@@ -1,1 +1,1 @@
-Sitemap: https://aedan.quarto.pub/investment-club/sitemap.xml
+Sitemap: https://invest.quarto.pub/dchs-invest/sitemap.xml

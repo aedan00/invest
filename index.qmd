@@ -5,9 +5,11 @@ css: styles.css
 ---
 <span class="blank-line"></span>
 
-<span class="highlight">**Investment Club starts in September 2024.**</span>
+<span class="border-type-banner-alert">**We are aware of an issue:**  
+When trying to join, user is redirected to an error page. Please register/join **[here](https://docs.google.com/forms/d/e/1FAIpQLSctJe0RKk5RGjAZeCUUEv9jWyli4O0M5o8jWqr2I2KkhLxUyQ/viewform)** instead.</span>  
 
-[Join this group](https://dublin.schoology.com/group/7283420475) to register & receive updates.
+~~[Join this group](https://dublin.schoology.com/group/7283420475) to register & receive updates.~~  
+<span class="smalltext-black">We are working to resolve this issue.</span>
 
 <span class = "highlight1">This club focuses on investments in the stock market and provides different strategies for positive returns in the stock market. Members are also able to execute realistic trades in a simulated environment.</span>  
 
@@ -16,9 +18,11 @@ css: styles.css
 <div class="grid-container">
 
   <div class="grid-item">
-<a href="trifold-loc.qmd">
-<img src="trifold-no4.png" alt="text" width="220" />
-<span class="mini-text">Click to expand</span>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSctJe0RKk5RGjAZeCUUEv9jWyli4O0M5o8jWqr2I2KkhLxUyQ/viewform">
+<!--<img src="trifold-no5.png" alt="text" width="220" />
+<span class="mini-text">Click to expand</span>-->
+<span class="main-text">Register / Join</span>
+<span class="sub-text">Join our group to receive updates</span>
 </a>
   </div>
   

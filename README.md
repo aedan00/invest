@@ -2,10 +2,12 @@
 
 Welcome!
 
-This is the README file for the DCHS Investment Club website, hosted on quarto.pub  
+This is the README file for the DCHS (Coffman) Investment Club website.
 
 The current url to our site is:  
 https://invest.quarto.pub/dchs-invest/
 
+**Please Note:**  
+This site and it's components serve only as online resources. The vast majority of  opportunities will be during meetings and discussions.
 
-**Site Last Updated: 7/9/2024**
+**Site Last Updated: 8/8/2024**

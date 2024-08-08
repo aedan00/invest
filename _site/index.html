@@ -137,13 +137,16 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><span class="blank-line"></span></p>
-<p><span class="highlight"><strong>Investment Club starts in September 2024.</strong></span></p>
-<p><a href="https://dublin.schoology.com/group/7283420475">Join this group</a> to register &amp; receive updates.</p>
+<p><span class="border-type-banner-alert"><strong>We are aware of an issue:</strong><br>
+When trying to join, user is redirected to an error page. Please register/join <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSctJe0RKk5RGjAZeCUUEv9jWyli4O0M5o8jWqr2I2KkhLxUyQ/viewform">here</a></strong> instead.</span></p>
+<p><del><a href="https://dublin.schoology.com/group/7283420475">Join this group</a> to register &amp; receive updates.</del><br>
+<span class="smalltext-black">We are working to resolve this issue.</span></p>
 <p><span class="highlight1">This club focuses on investments in the stock market and provides different strategies for positive returns in the stock market. Members are also able to execute realistic trades in a simulated environment.</span></p>
 <hr>
 <div class="grid-container">
 <div class="grid-item">
-<a href="./trifold-loc.html"> <img src="trifold-no4.png" alt="text" width="220"> <span class="mini-text">Click to expand</span> </a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSctJe0RKk5RGjAZeCUUEv9jWyli4O0M5o8jWqr2I2KkhLxUyQ/viewform"> <!--<img src="trifold-no5.png" alt="text" width="220" />
+<span class="mini-text">Click to expand</span>--> <span class="main-text">Register / Join</span> <span class="sub-text">Join our group to receive updates</span> </a>
 </div>
 <div class="grid-item background">
 <a href="./guide.html"> <span class="main-text">Explore All Topics</span> <span class="sub-text">View all strategies we’ll cover relating to the stock market</span> </a>
@@ -248,7 +251,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/invest\.quarto\.pub\/dchs-invest");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

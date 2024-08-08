@@ -7,7 +7,8 @@ format: html
 Throughout the year, we'll explore various investing tactics.   
 Stock ideas and information will also be exchanged.
 
-**The full list of topics/tactics include, but are not limited to:**
+**The full list of topics/tactics include, but are not limited to:**  
+<span class="smalltext-black">These topics will be discussed at meetings</span>
 <div class="small-table">
 | **Intro**                          | **Intermediate**                              |   **Advanced**                            |
 |------------------------------------|-----------------------------------------------|-------------------------------------------|
@@ -20,19 +21,6 @@ Stock ideas and information will also be exchanged.
 </div>
 ---
 
-<span class="smalltext-black">***The topics <span class="smalltext-black">(listed above)</span> are divided and placed into sections, with each section being noted below.***</span>  
-
-
-
-| **Sections**                            |                                              |
-|-----------------------------------------|----------------------------------------------|
-| Important Stock Market Basics & Review      | <span class="smalltext-black">[Available](section1.qmd)</span>                         |
-| Other Investing Practices          | <span class="smalltext-black">[Available](section2.qmd)</span>                         |
-| Fundamental Analysis (Pt. 1)                | <span class="smalltext-black">(Arriving in v5.1)</span>                         |
-| Fundamental Analysis (Pt. 2)                | <!-- -->                         |
-| Option Trading Pt. 1                              | <!-- -->                         |
-| Option Trading Pt. 2                  | <!-- -->                         |
-| Technical Analysis & Patterns                  | <!-- -->      
 
 <br>
 

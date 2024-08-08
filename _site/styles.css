@@ -1,7 +1,7 @@
 /* css styles */
 
 body {
-    background-image: url('invest-background-medium.png');
+    background-image: url('invest-background-narrow.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -14,8 +14,30 @@ body {
     font-weight: bold;
 }
 
+.highlight2 {
+    color: #097a98;
+}
+
+.highlight2_09 {
+    color: #097a98;
+    font-size: 0.9em;
+}
+
+.highlight3 {
+    color: #de763b;
+}
+
+.highlight3_09 {
+    color: #de763b;
+    font-size: 0.9em;
+}
+
 .highlight1 {
     color: #006400; /* Dark green */
+    font-size: 0.9em;
+}
+
+.decrease {
     font-size: 0.9em;
 }
 
@@ -33,6 +55,7 @@ body {
     padding: 10px; 
     border: transparent; 
     border-radius: 5px;
+    font-size: 0.9em;
 }
 
 .minitext-black {
@@ -47,6 +70,10 @@ body {
     color: #982153;
 }
 
+.green {
+    color: #006400
+}
+
 .something1 {
     color: black;  
     font-size: 0.9em;
@@ -54,6 +81,10 @@ body {
 
 .blank-line {
     margin: 20px 0;
+}
+
+.nav-left {
+    text-align: left;
 }
 
 .nav-right {
@@ -111,7 +142,7 @@ body {
 
 .grid-item:hover {
   transform: scale(1.08);
-  background-color: #404141ff;
+  background-color: #727272;
 }
 
 .grid-item.background:hover a {
@@ -157,5 +188,6 @@ body {
   .grid-item {
     height: auto;
   }
+
 
 /* IMPORTANT end */

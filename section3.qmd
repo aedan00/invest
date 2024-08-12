@@ -7,45 +7,31 @@ css: styles.css
 <span class="border-type-banner">
 **Fundamental Analysis Pt. 1**
 </span>  
-<span class="smalltext-black">Click on **'Next'** to move to each segment  </span>
+<span class="smalltext-black">FULL Version, unsegmented  </span>
 
-<div id="steps">
-  <div id="step1">
 ### Intro
 Welcome to section three --  
-This section begins the discussion of Fundamental Analysis, a powerful topic used to evaluate the fair-value and future movement of a stock.  
+This section starts Fundamental Analysis, a powerful topic used to evaluate the fair-value and future movement of a stock.  
 
-Fundamental Analysis is an extremely important topic, and it is used all the time to make quality trades.
+Fundamental Analysis is an extremely important topic, and it is necessary for a quality portfolio.
 
 <span class = "highlight3_09">Pt. 1 focuses mainly on the qualitative-(company) part of Fundamental Analysis </span>  
-<span class = "highlight3_09">Pt. 2 focuses mainly on the quantitative-(earnings) part of Fundamental Analysis </span>
 
-  </div>
-
-  <div id="step2" style="display: none;">
 ### Defined
-Fundamental Analysis is the research into a company's financial state, growth, and earnings. It additionally dives into a company's qualitative features (quality), including insider-trading, moat, and other intrinsic data.  
+Fundamental Analysis measures a company's financial state, growth, and earnings. It additionally dives into a company's qualitative features (quality), including insider-trading, moat, and other intrinsic data.  
 
-  </div>
-
-  <div id="step3" style="display: none;">
 <!-- cont --> 
-But at its core, Fundamental Analysis uses inherent/intrinsic factors to measure a stock's fair value and its future momentum.
+At its core, Fundamental Analysis uses inherent/intrinsic factors to measure a stock's fair value and its future momentum.
 
-  </div>
 
-  <div id="step4" style="display: none;">
-<!-- cont --> 
 ### Contents of this Section
-<span class = "smalltext-black">Preview what is ahead.</span>
-
+<span class = "smalltext-black">Preview what is ahead.</span>  
+<div class="info-box">
 **Earnings Reports:** <span class = "highlight1">Discussing financial reports from companies</span>  
 **Quantitative (PREVIEW):** <span class = "highlight1">Previewing use of financial statistics and movement</span>  
-**Qualitative: (FULL)** <span class="highlight1">Full evaluation of company intrinsics</span>
+**Qualitative: (FULL)** <span class="highlight1">Full evaluation of company intrinsics</span></div>
 
-  </div>
 
-  <div id="step5" style="display: none;">
 ### Earnings Reports
 Earnings reports are one of the highlights of Fundamental Analysis.  
 
@@ -53,9 +39,6 @@ Every ~3 months, a company of the stock market must release a financial report d
 
 These reports contain major financial info about a company along with company updates.
 
-  </div>
-
-  <div id="step6" style="display: none;">
 <!-- ### -->
 **Rapid Changes**:  
 
@@ -66,9 +49,6 @@ The normally occurs when an earnings report contains either:
 - Announcements that impact the future of the company
 </span>
 
-  </div>
-
-  <div id="step7" style="display: none;">
 <!-- ### -->
 **Example of Rapid Change**:  
 
@@ -78,71 +58,57 @@ The report showed declining EPS from a year prior, along with an expectation of 
 
 The day after Ford's (F) bombshell earnings report, the stock lost <span class = "red">**18%**</span> of its value.
 
-  </div>
-
-  <div id="step8" style="display: none;">
 <!-- ### -->
 Earnings reports are not only significant when it comes to rapid short-term change, they also are used to a stock's long-term performance.
 
-  </div>
-
-  <div id="step9" style="display: none;">
-### <span class = "highlight2">Quantitative Aspects - PREVIEW</span>
-<span class = "highlight">From net-income & revenue, to EPS trends, cash-flow, and EBITA, a multitude of factors <span class = "something1">(combined w/ share price)</span> exist to help us predict the future movement of a stock.</span> 
-
-**Quantitative** Fundamental Analysis is comprised of financial statistics, such as listed above.
-
-  </div>
-
-  <div id="step10" style="display: none;">
 <!-- ### -->
-Unfortunately, the *Quantitative* (Numerical) side of Fundamental Analysis is a <span class = "red">large topic</span>.  
+**Revenue**  
+Earnings reports additionally deliver quarterly revenue along with past history of revenue.
 
-But we'll go into full depth about the *Quantitative* parts in 'Fundamental Analysis Pt. 2'.
+Analyzing growing revenue is a good sign that the company is expanding.
 
-  </div>
+### <span class = "highlight2">Quantitative Aspects - PREVIEW</span>
+<span class = "highlight">From net-income & revenue, to EPS trends, cash-flow, and EBITA, a multitude of *numeric* factors <span class = "something1">(paired w/ share price)</span> exist to help us evaluate a stock.</span>
 
-  <div id="step11" style="display: none;">
+<div class="tip-box">
+**Quantitative** Fundamental Analysis is comprised of financial statistics and growth.  
+QUANTITATIVE = Quantity</div>
+
+
 <!-- ### -->
 ---
 
-  </div>
-
-  <div id="step12" style="display: none;">
+Quantitative Analysis is located in a future section **(Fundamental Analysis Pt. 2)**.  
 Moving on...
 
-  </div>
 
-  <div id="step13" style="display: none;">
-### Company Qualities
-<span class = "highlight3">The next segments will easier to understand and more intuitive.</span>
+### Qualitative Analysis - FULL
+<span class = "highlight3">The next segments focus on Qualitative Analysis.</span>
 
-Pertaining to intrinsic aspects of the company behind stock, a **Qualitative** approach examines the non-numerical factors of a company.
+A **Qualitative** approach examines the non-numerical factors of a company.
+<div class="tip-box">
+**Qualitative** Fundamental Analysis is essentially - company quality  
+QUALITATIVE = Quality</div>
 
-  </div>
 
-  <div id="step14" style="display: none;">
 <!-- ### -->
 "Qualitative" sounds complex, but here it really is just the <span class = "decrease">**"non-numeric quality"** or the **"non-numerical wellbeing"**</span> of a company.
 
-  </div>
 
-  <div id="step15" style="display: none;">
 <!-- ### -->
 **Examples**
 
-The *qualitative* aspect prominently includes:  
+The *qualitative* aspects we'll talk about:  
 <span class = "highlight1">
-- M/A <span class = "something1">(merger / acquisition)</span>  
-- MOAT  
-- insider-activity  
+- Merger & Acquisition   
+- Moat  
+- Insider-activity  
+- Sector prospects
 </span>
 
 We'll go step-by-step through each point --
 
-  </div>
 
-  <div id="step16" style="display: none;">
 ### <span class = "red">M</span>erger and <span class = "red">A</span>cquisition (M/A)
 
 <img src="hidden-boeing-aquire.PNG" class="image" width="260" alt="Hidden Boeing Aquire">
@@ -156,122 +122,122 @@ They can do this by purchasing a majority or entirety of another company's stock
 
 Once a company has been acquired, its shares are often delisted from the stock market, becoming a private company.
 
-  </div>
 
-  <div id="step17" style="display: none;">
 <!-- ### -->
 **Why does this Matter?:**  
 Often, companies are acquired at valuations higher than their current valuation. 
 This opportunity means the company being acquired typically sees a *immediate and significant* <span class = "green">**boost/spike**</span> to their stock price.
 
-  </div>
+<div class="tip-box2">
+A company making quality acquisitions gains assets & competitive-advantage
 
-  <div id="step18" style="display: none;">
+A company getting acquired could see an instant boost in share value</div>
+
+<span class="smalltext-black">*assets = resources, patents, real-estate, [anything of value]</span>
+
+
 ### Moat
 A economic "moat" is a competitive advantage a company over other competitors.
 
-Similar to a medieval "moat", one side has the advantage, and the other is at a disadvantage.
+Higher market share = Higher advantage
 
-  </div>
-
-  <div id="step19" style="display: none;">
 <!-- ### -->
-**Moats are competitive advantages within a sector.**
+**Moats are competitive advantages within a sector.**  
+<div class="tip-box2">
+Choosing companies with strong *moats* assures a steady future, (by retaining high market share)</div>
 
-**For Example:**
-Google *(GOOGL)* has a moat in the web industry.
-Microsoft *(MSFT)* has a moat in the computer industry
 
-Southwest Airlines *(LUV)* doesn't have a moat, as the airline industry has lots of competition.
-
-  </div>
-
-  <div id="step20" style="display: none;">
 ### Insider Activity
-This subsection will demonstrate how to read through insider reports.
-We will use [sec.gov/edgar/browse/](sec.gov/edgar/browse).
+This subsection will overview insider activity.
+We will use [sec.gov/edgar/browse/](https://www.sec.gov/search-filings).
 
-  </div>
 
-  <div id="step21" style="display: none;">
 <!-- ### -->
-If you're not sure about a company, consult their insiders!  
-Insiders, who are normally executives within the company, can tell you the most accurate confidence-level.
+Insider activity allows investors (like you and me), to view how company executives and officers trade their shares.
 
-  </div>
+Is the CEO buying or selling? Insider activities allows us to check.
 
-  <div id="step22" style="display: none;">
-### text
 
-  </div>
-
-  <div id="step23" style="display: none;">
-### text
-
-  </div>
-
-  <div id="step24" style="display: none;">
-### text
-
-  </div>
-  
-  <div id="step25" style="display: none;">
-### text
-
-  </div>
-  
-  <div id="step26" style="display: none;">
-### text
-
-  </div>
-  
-  <div id="step27" style="display: none;">
-### text
-
-  </div>
-  
-  <div id="step28" style="display: none;">
-### text
-
-  </div>
-  
-  <div id="step29" style="display: none;">
-### text
-
-  </div>
-
-  <div id="step30" style="display: none;">
 <!-- ### -->
-text end
+<span class="green">We will talk all about **Insider Trading** during our meetings.</span>  
 
-  </div>
+An in-depth tutorial on this website *might* be added in the future.  
+`getting all the bits of insider activity would take too long to include here, and would draw on too long`
 
-  <button id="nextButton">Next</button>
-</div>
+### Sector Prospects
+The last part we'll talk about in this section of Qualitative Analysis is sector prospects.
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var currentStep = 1;
-  var totalSteps = 30; // Total number of steps
+Every company/stock you invest in belongs in a certain industry, (industry = sector).
 
-  document.getElementById("nextButton").addEventListener("click", function() {
-    var nextStep = document.getElementById("step" + (currentStep + 1));
-    if (nextStep) {
-      nextStep.style.display = "block";
-      currentStep++;
-    }
-    this.parentNode.insertBefore(this, document.getElementById("step" + currentStep).nextSibling);
-    if (currentStep === totalSteps) {
-      this.remove(); // Remove the "Next" button after the last step
-    }
-  });
-});
-</script>
+
+<!-- ### -->
+- Google = Tech Sector (Web), Tech Sector (Cloud)  
+- Apple = Tech Sector & Hardware Sector  
+- Amazon = Retail Sector, Tech Sector (Cloud)  
+- Tesla = EV Sector  
+- Crowdstrike = Cybersecurity (Tech) Sector  
+- Nvidia = AI (Tech) Sector, Hardware Sector  
+- Nike = Retail Sector  
+- Chipotle = Food Sector  
+
+The list goes on and on..  
+
+
+**Sectors Prospects**  
+<span class="highlight3_09">The overall prospects of a sector are important for every stock within that industry.</span>  
+
+* Investing in a sector can be done by:  
+    + <span class="highlight2_09">Investing in ETFs for the sector </span>  
+        - <span class="something1">(example:) Buying the general cybersecurity fund (CIBR)</span>  
+    + <span class="highlight2_09">Handpicking specific stocks within the sector </span>  
+        - <span class="something1">(example:) Choosing CRWD & FTNT shares only</span>  
+
+<!-- ### -->
+<div class="tip-box2">
+Choosing a stock in a strong or growing sector is essential</div>
+
+<!-- ### -->
+---
+
+
+### <span class="red">Piecing Everything Together</span>
+After covering each of these **qualitative** topics, you may be wondering:  
+"How do these topics help me?"
+
+These qualitative factors that we discussed are crucial for informed investing:
+
+- **Mergers and Acquisitions:** Can signal potential stock price movements. Acquiring companies gain assets, while those acquired may see price spikes.
+
+- **Moats:** Companies with strong moats have lasting competitive advantages, helping them stay profitable despite competition.
+
+- **Insider Activity:** Watching insider trades can reveal executives' confidence in their company’s future, guiding your investment decisions.
+
+- **Sector Prospects:** Understanding sector growth potential helps focus investments on areas with the best opportunities.
+
+By considering if a stock is strong in each of these factors, you can make more strategic investment choices.
+
+
+
+### --- Conclusion ---
+And that's the end of Fundamental Analysis Pt. 1 --
+
+Later, we will cover financials, earnings, and growth.
+With quantitative data, your decisions become more enhanced, whether through ETFs or handpicked stocks.  
+<div class="tip-box">
+Quantitative Data is in a future section  
+<span class="smalltext-black">(Fundamental Analysis Pt. 2)</span></div>
+
+<!-- ### -->
+<span class="smalltext-black">
+**Originally Published:** 8/12/2024 </span>
+
+<!-- ### -->
+
 
 
 <style>
   body {
-    background-image: url('invest-background-narrow.png');
+    background-image: url('white-background.png');
     background-size: cover;
     background-repeat: repeat;
   

@@ -1,0 +1,29 @@
+---
+title: "Sections"
+format: html
+---
+
+We have custom-written resources & documentation on investment knowledge.
+
+<span class = "highlight2">The contents within the sections **will** be covered at our meetings.</span>
+
+<span class = "highlight3_09">These online sections can also be used as individual tutorials, especially if you miss a meeting.</span>
+
+<!--<span class="smalltext-black">***The topics <span class="smalltext-black">(listed on Guide page)</span> are divided and placed into sections, with each section being noted below.***</span>-->
+
+
+| **Sections**                            |                                              |
+|-----------------------------------------|----------------------------------------------|
+| Important Stock Market Basics & Review      | <span class="smalltext-black">[Available](section1.qmd)</span>                         |
+| Other Investing Practices          | <span class="smalltext-black">[Available](section2.qmd)</span>                         |
+| Fundamental Analysis (Pt. 1)                | <span class="smalltext-black">[Available](section3.qmd)</span>                         |
+| Fundamental Analysis (Pt. 2)                | <!-- -->                        |
+| Risk Management and Analyst Opinions                | <span class="smalltext-black">Arriving v5.3</span>                        |
+| Option Trading Pt. 1                              | <!-- -->                         |
+| Option Trading Pt. 2                  | <!-- -->                         |
+| Technical Analysis & Patterns                  | <!-- -->      |
+
+___
+
+<div class = "tip-box">**Please Note:**  
+This site serves only as an online resource. The vast majority of opportunities will be during meetings and discussions.</div>

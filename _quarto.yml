@@ -2,17 +2,18 @@ project:
   type: website
 
 website:
-  title: "DCHS Investment Club "
+  title: "DCHS Invest "
   navbar:
     left:
       - href: index.qmd
         text: Home
       - guide.qmd
+      - online-sections.qmd
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

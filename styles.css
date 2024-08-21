@@ -6,7 +6,45 @@ body {
     background-repeat: no-repeat;
 }
 
+.info-box {
+    padding: 20px;
+    margin: 20px 0;
+    color: black;
+    background-color: #e2e8f0;
+    border-left: 5px solid #3182ce;
+    font-size: 0.9em;
+    box-sizing: border-box;
+    overflow: auto;
+    display: inline-block;  
+}
 
+.tip-box {
+    padding: 20px;
+    margin: 20px 0;
+    color: black;
+    background-color: #f5fff1;
+    border-left: 6px solid #7bac65;
+    font-size: 0.9em;
+    box-sizing: border-box;
+    overflow: auto;
+    display: inline-block;  
+}
+
+.tip-box2 {
+    padding: 20px;
+    margin: 20px 0;
+    color: black;
+    background-color: #f9ebf1;
+    border-left: 6px solid #b18c9d;
+    font-size: 0.9em;
+    box-sizing: border-box;
+    overflow: auto;
+    display: inline-block;  
+}
+
+.big {
+    font-size: 2.0em;
+}
 
 .highlight {
     color: #006400; /* Dark green */
@@ -71,7 +109,15 @@ body {
 }
 
 .green {
-    color: #006400
+    color: #006400;
+}
+
+.gold {
+    color: gold;
+}
+
+.black {
+    color: black;
 }
 
 .something1 {
@@ -123,6 +169,12 @@ body {
   background-position: center;
 }
 
+.grid-item.background1 a {
+  background-image: url('invest-background-gold.png');
+  background-size: cover;
+  background-position: center;
+}
+
 .grid-item a {
   text-decoration: none;
   color: white;
@@ -146,6 +198,11 @@ body {
 }
 
 .grid-item.background:hover a {
+  <!--background-color: rgba(64, 65, 65, 0.3);-->
+  border-radius: 10px;
+}
+
+.grid-item.background1:hover a {
   <!--background-color: rgba(64, 65, 65, 0.3);-->
   border-radius: 10px;
 }

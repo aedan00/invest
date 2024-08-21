@@ -5,24 +5,25 @@ css: styles.css
 ---
 <span class="blank-line"></span>
 
-<span class="border-type-banner-alert">**We are aware of an issue:**  
-When trying to join, user is redirected to an error page. Please register/join **[here](https://docs.google.com/forms/d/e/1FAIpQLSctJe0RKk5RGjAZeCUUEv9jWyli4O0M5o8jWqr2I2KkhLxUyQ/viewform)** instead.</span>  
+<div class="info-box">
+**Update** | <span class="something1">9/13/2024:</span>  
+<!--<span class="something1">~~When attempting to join, user was redirected to an error page.~~</span>  -->
+Our informational meeting will be on Friday September 13th,  
+[Learn more](guide.qmd)</div>
 
-~~[Join this group](https://dublin.schoology.com/group/7283420475) to register & receive updates.~~  
-<span class="smalltext-black">We are working to resolve this issue.</span>
-
-<span class = "highlight1">This club focuses on investments in the stock market and provides different strategies for positive returns in the stock market. Members are also able to execute realistic trades in a simulated environment.</span>  
+<span class = "highlight1">This club focuses on investments in the **stock market** and provides different strategies for positive returns in the stock market. Members are also able to execute realistic trades in a simulated environment.</span>  
 
 ---
 
 <div class="grid-container">
 
-  <div class="grid-item">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSctJe0RKk5RGjAZeCUUEv9jWyli4O0M5o8jWqr2I2KkhLxUyQ/viewform">
+  <div class="grid-item background1">
+<a href="https://dublin.schoology.com/group/7283420475">
 <!--<img src="trifold-no5.png" alt="text" width="220" />
 <span class="mini-text">Click to expand</span>-->
-<span class="main-text">Register / Join</span>
-<span class="sub-text">Join our group to receive updates</span>
+<span class="main-text"><span class="black">**Join/Register**</span></span>
+<span class="sub-text"><span class="black">Join our group to  
+receive updates</span>
 </a>
   </div>
   
@@ -34,10 +35,10 @@ When trying to join, user is redirected to an error page. Please register/join *
   </div>
   
   <div class="grid-item">
-<a href="<!-- -->">
+<a href="index.qmd">
 <span class="main-text">Next Meeting</span>
-<span class="sub-text">**September, 2024**  
-*(Date TBD)*</span>
+<span class="sub-text">**September 13th**  
+*(Room B167)*</span>
 </a>
   </div>
   
@@ -54,5 +55,5 @@ When trying to join, user is redirected to an error page. Please register/join *
 <br>
 
 <div class="nav-right">
-  | [About](about.qmd){style="color: #373737;"}
+[Join](https://dublin.schoology.com/group/7283420475){style="color: #373737;"} | [About](about.qmd){style="color: #373737;"}
 </div>

@@ -18,7 +18,7 @@ We have custom-written resources & documentation on investment knowledge.
 | Other Investing Practices          | <span class="smalltext-black">[Available](section2.qmd)</span>                         |
 | Fundamental Analysis (Pt. 1)                | <span class="smalltext-black">[Available](section3.qmd)</span>                         |
 | Fundamental Analysis (Pt. 2)                | <!-- -->                        |
-| Risk Management and Analyst Opinions                | <span class="smalltext-black">Arriving v5.3</span>                        |
+| Risk Management and Analyst Opinions                | <span class="smalltext-black"><!-- --></span>                        |
 | Option Trading Pt. 1                              | <!-- -->                         |
 | Option Trading Pt. 2                  | <!-- -->                         |
 | Technical Analysis & Patterns                  | <!-- -->      |

@@ -12,15 +12,22 @@ Stock ideas and information will also be exchanged.
 <div class="small-table">
 | **Intro**                          | **Intermediate**                              |   **Advanced**                            |
 |------------------------------------|-----------------------------------------------|-------------------------------------------|
-| - Buying & Selling                 | - Dividends                                   | - Option Trading                          |
-| - Shorting & Covering              | - Indexes, index funds, ETFs                  | - Futures                                 |
-| - Volume, market-cap, PE ratio     | - Volatilities                                | - Fundamental Analysis <span class="small-text-black">(continued)</span>|
-| - Factors affecting share value     | - Option trading (puts & calls)              |                                          |
-| - Acquisitions (impact)            | - Fundamental Analysis (earnings, financials) |                                           |
-|                                    | - ~~Technical Analysis (graphs, patterns, trends)~~|                                          |
+| - The stock market                 | - Dividends                                   | - Option Trading                          |
+| - Buying & Selling                 | - Indexes, index funds, ETFs                  | - EMH                                     |
+| - Shorting & Covering              | - Volatilities and risk                       | - Fundamental Analysis <span class="small-text-black">(continued)</span>|
+| - Factors affecting share value    | - Option trading (puts & calls)               | - ~~Futures~~                             |
+| - Acquisitions (impact)            | - Intrinsic value                             |                                           |
+| - Volume, market-cap, PE ratio     | - Fundamental Analysis (earnings, financials) |                                           |
+|                                    | - Technical Analysis (graphs, pattern trend)|                                          |
 </div>
 ---
 
+<div class="tip-box2">
+**Informational Meeting** | <span class="something1">9/13/2024:</span>  
+<span class="something1">At this meeting, we will introduce what Investment Club is and its plan.  
+The stock market and its news will also be discussed.</span>  
+<span class="something1">Topics include:</span> <span class="highlight2_09">The stock market, buying & selling, factors affecting share price, market-cap</span>  
+<span class="something1">Practice trading using Marketwatch will be introduced and demonstrated. </span></div>
 
 <br>
 

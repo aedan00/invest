@@ -1,20 +1,20 @@
 ---
 title: "About Us"
-about:
+<!--about:
   template: broadside
-  image: invest-background-about.png
+  image: invest-background-about.png-->
 format: html
 css: styles.css
 ---
 
-<div class="nav-left">
+<!--<div class="nav-left">-->
 **Advisor:**  
 <span class="something1">Mr. Woodmansee</span>  
 **Co-President & Founder:**  
 <span class="something1">Aedan Liao</span>  
 **Co-President:**  
 <span class="something1">Hayden Reheiser</span> 
-</div>
+<!--</div>-->
 
 ---
 
@@ -23,7 +23,6 @@ css: styles.css
 
 <span class="smalltext-black">**Dublin Coffman Investment Club**  
 Site powered by RStudio and Quarto</span>  
-<span class="blank-line"></span>
 
 <br>
 

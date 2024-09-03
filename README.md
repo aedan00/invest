@@ -8,6 +8,6 @@ The current url to our site is:
 https://invest.quarto.pub/dchs-invest/
 
 **Please Note:**  
-This site and it's components serve only as online resources. The vast majority of  opportunities will be during meetings and discussions.
+This site and it's components serve only as online resources. 
 
-**Site Last Updated: 8/20/2024**
+**Site Last Updated: 9/2/2024**

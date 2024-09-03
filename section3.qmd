@@ -171,16 +171,13 @@ Every company/stock you invest in belongs in a certain industry, (industry = sec
 
 
 <!-- ### -->
-- Google = Tech Sector (Web), Tech Sector (Cloud)  
-- Apple = Tech Sector & Hardware Sector  
-- Amazon = Retail Sector, Tech Sector (Cloud)  
-- Tesla = EV Sector  
-- Crowdstrike = Cybersecurity (Tech) Sector  
-- Nvidia = AI (Tech) Sector, Hardware Sector  
-- Nike = Retail Sector  
-- Chipotle = Food Sector  
+- Tech Sector  
+- Food Sector  
+- Automobile Sector  
+- Retail Sector  
+- Cybersecurity (Tech) Sector  
 
-The list goes on and on..  
+(examples of some sectors)  
 
 
 **Sectors Prospects**  
@@ -229,17 +226,11 @@ Quantitative Data is in a future section
 
 <!-- ### -->
 <span class="smalltext-black">
-**Originally Published:** 8/12/2024 </span>
-
-<!-- ### -->
-
+**Originally Published:** 8/12/2024  
+**Last Revised:** 9/2/2024</span>
 
 
 <style>
-  body {
-    background-image: url('white-background.png');
-    background-size: cover;
-    background-repeat: repeat;
   
   .content {
       overflow: auto;

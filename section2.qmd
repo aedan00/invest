@@ -121,7 +121,7 @@ This is called **decay**.
 - The stock loses 10%, meaning the LETF loses 30%  
 - You now have $70  
 - The stock regains 10%, meaning the LETF gains 30%  
-- $70 multiplied by 1.30 equals $91</span>
+- $70 multiplied by 1.30 = $91</span>
 
   </div>
 
@@ -167,11 +167,11 @@ In this case, you would **short** JPM, as you believe their stock price will con
 
   <div id="step19" style="display: none;">
 ### Covering the Short
-A month later, JPM is now $150. The net change is negative $60 from the original $210/share.  
+A month later, JPM is now $150. The net-change is negative $60 from the original $210/share.  
 This means you made a $60 profit for each share shorted.
 
 However, now, you want to end your shorting position on JPM, and take the profit.  
-To *end a shorting position*, you would **cover** you short.
+To *eliminate a shorting position*, you would **cover** you short.
 
 Covering terminates your sell-short, and you pocket the net-change.
 
@@ -211,7 +211,7 @@ This section has covered several other trading approaches that are used in today
 
 <span class="smalltext-black">
 **Originally Published:** 7/7/2024  
-**Last Revised:** 7/24/2024</span>
+**Last Revised:** 9/2/2024</span>
 
   </div>
 

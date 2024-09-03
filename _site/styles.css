@@ -1,7 +1,7 @@
 /* css styles */
 
 body {
-    background-image: url('invest-background-narrow.png');
+    /* background-image: url('invest-background-narrow.png'); */
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -44,6 +44,7 @@ body {
 
 .big {
     font-size: 2.0em;
+    font-weight: bold;
 }
 
 .highlight {
@@ -112,10 +113,6 @@ body {
     color: #006400;
 }
 
-.gold {
-    color: gold;
-}
-
 .black {
     color: black;
 }
@@ -159,7 +156,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 200px;
+  height: 170px;
   transition: transform 0.3s ease, background-color 0.3s ease;
   }
   

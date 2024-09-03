@@ -1,8 +1,9 @@
 ---
-title: "Guide"
+title: ""
 format: html
 ---
-<span class="blank-line"></span>
+
+<span class="big"></span>
 
 Throughout the year, we'll explore various investing tactics.   
 Stock ideas and information will also be exchanged.
@@ -34,12 +35,3 @@ The stock market and its news will also be discussed.</span>
 <div class="nav-right">
  | [Home](index.qmd){style="color: #373737;"} | [About](about.qmd){style="color: #373737;"}
 </div>
-
-<style>
-  body {
-    background-image: url('invest-background-narrow.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-</style>

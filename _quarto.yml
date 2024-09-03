@@ -4,11 +4,14 @@ project:
 website:
   title: "DCHS Invest "
   navbar:
+    logo: "hidden-invest-logo.png"
+
+    title: false
     left:
       - href: index.qmd
         text: Home
-      - guide.qmd
-      - online-sections.qmd
+      - href: guide.qmd
+        text: Guide
       - about.qmd
 
 format:

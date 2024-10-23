@@ -191,7 +191,7 @@ body {
 
 .grid-item:hover {
   transform: scale(1.08);
-  background-color: #727272;
+  background-color: #006400;
 }
 
 .grid-item.background:hover a {

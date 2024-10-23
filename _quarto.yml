@@ -5,15 +5,17 @@ website:
   title: "DCHS Invest "
   navbar:
     logo: "hidden-invest-logo.png"
-
     title: false
     left:
       - href: index.qmd
         text: Home
       - href: guide.qmd
         text: Guide
-      - about.qmd
-
+      - href: about.qmd
+        text: About Us
+      - href: first-analysis.qmd
+        text: Meeting Research
+        
 format:
   html:
     theme: sandstone

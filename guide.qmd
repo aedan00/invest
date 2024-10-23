@@ -23,12 +23,13 @@ Stock ideas and information will also be exchanged.
 </div>
 ---
 
-<div class="tip-box2">
-**Informational Meeting** | <span class="something1">9/13/2024:</span>  
+<!-- <div class="tip-box2">
+~~**Informational Meeting** | <span class="something1">9/13/2024:</span>  
 <span class="something1">At this meeting, we will introduce what Investment Club is and its plan.  
 The stock market and its news will also be discussed.</span>  
 <span class="something1">Topics include:</span> <span class="highlight2_09">The stock market, buying & selling, factors affecting share price, market-cap</span>  
-<span class="something1">Practice trading using Marketwatch will be introduced and demonstrated. </span></div>
+<span class="something1">Practice trading using Marketwatch will be introduced and demonstrated. </span>~~  
+MEETING OVER</div>  -->
 
 <br>
 

@@ -1,12 +1,11 @@
 ---
-title: "Sections"
+title: "Online Sections"
 format: html
 ---
 
-We have custom-written resources & documentation on investment knowledge.
+Self-written resources & documentation on investment knowledge.
 
-<span class = "highlight2">The contents within the sections **will** be covered at our meetings.</span>
-
+<span class = "highlight2">The contents within the sections **will** be covered at our meetings.</span>  
 <span class = "highlight3_09">These online sections can also be used as individual tutorials, especially if you miss a meeting.</span>
 
 <!--<span class="smalltext-black">***The topics <span class="smalltext-black">(listed on Guide page)</span> are divided and placed into sections, with each section being noted below.***</span>-->

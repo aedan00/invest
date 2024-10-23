@@ -5,14 +5,11 @@ css: styles.css
 ---
 <span class="blank-line"></span>
 
-<div class="info-box">
-**Update** | <span class="something1">9/13/2024:</span>  
-<!--<span class="something1">~~When attempting to join, user was redirected to an error page.~~</span>  -->
-Our informational meeting will be on Friday September 13th,  
+<!--<div class="info-box">
+**Update** | <span class="something1">9/27/2024:</span>  
+Upcoming meeting on Friday, September 27th --  
 [Learn more](https://docs.google.com/document/d/1cwgCudvzwrRmo7swpXPi9XubgKfZ64_dYvQHMxo2ibA/view)</div>
-
-<span class = "highlight1">This club focuses on investments in the **stock market**  
-Members are also able to execute realistic trades in a simulated environment.</span>  
+--> 
 
 ---
 
@@ -36,23 +33,26 @@ receive updates</span>
   </div>
   
   <div class="grid-item">
-<a href="https://docs.google.com/document/d/1cwgCudvzwrRmo7swpXPi9XubgKfZ64_dYvQHMxo2ibA/view">
-<span class="main-text">Next Meeting</span>
-<span class="sub-text">**September 13th**  
-*(Room B167)*</span>
+<a href="first-analysis.qmd">
+<span class="main-text">Group Stock Analysis</span>
+<span class="sub-text">Examining different stocks that members are interested in  
+</span>
 </a>
   </div>
   
 </div>
 
 ---
-<div style="opacity: 0; animation: fadeIn 3s forwards;">
+<div style="opacity: 0; animation: fadeIn 3.5s forwards;">
 <span class="big"><span class="green">
 <p align="center">Create a confident financial future</p></span></span>
 <p align="center">
 Learn and apply investing strategies in today's stock market. Join over **30**+ members in a hands-on environment where you can gain financial experience, insight, and knowledge. 
 </p>
 </div>
+<span class = "highlight1">This club focuses on **stock market** analysis and investment strategies.  
+Members can trade on personal accounts or practice trades on a simulated service.  
+<span class="highlight1">*Investing in a real account involves the potential for gain but also the risk of loss.*</span></span>  
 
 <style>
 @keyframes fadeIn {
@@ -60,7 +60,10 @@ Learn and apply investing strategies in today's stock market. Join over **30**+ 
   to { opacity: 1; }
 }
 </style>
-
+<br>
+<p align="center"><span class="border-type-banner"><span class="smalltext-black"> 
+Submit [meeting feedback](https://docs.google.com/forms/d/e/1FAIpQLScRMvC4YSjmbg9YXcfSyr5G6Z2eR5QXqyncMjN4n2_gSvJ5KQ/viewform){style="color: #bf9000;"}
+</span></span></p>
 
 <!--<span class="smalltext-black"> 
 <span class="border-type-banner"> 
@@ -73,4 +76,3 @@ Learn and apply investing strategies in today's stock market. Join over **30**+ 
 <div class="nav-right">
 [Join](https://dublin.schoology.com/group/7283420475){style="color: #373737;"} | [About](about.qmd){style="color: #373737;"}
 </div>
-

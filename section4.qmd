@@ -9,4 +9,4 @@ css: styles.css
 </span>  
 <span class="smalltext-black">Click on **'Next'** to move to each segment  </span>
 
-being worked on
+pending addition. expected soon.

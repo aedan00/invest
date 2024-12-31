@@ -9,255 +9,133 @@ css: styles.css
 **Important Stock Market Basics & Review**
 </span>  
 
-<span class="smalltext-black">Click on **'Next'** to move to each segment  
-**5 minute read time**</span>
-
-<div id="steps">
-  <div id="step1">
 ### Intro
-This section covers foundational stock terms and their interconnections. Its aim is to establish a solid foundation in stocks, laying the groundwork for upcoming content.
+This section covers the foundations of the stock market and information about the stock market.  
+Past meeting contents are also available on this page.
+
+### Contents of this Section
+<span class = "smalltext-black">Preview what is ahead.</span>  
+<div class="info-box">
+**1:** <span class = "highlight1">What The Stock Market Is</span>  
+**2:** <span class = "highlight1">Share Prices</span>  
+**3:** <span class="highlight1">Market-Cap & Volume</span>  
+**4:** <span class = "highlight1">Volatility & Indexes</span></div>
 
 *For intermediate to more advanced traders, this section would serve only as a refresher.*  
-<span class="something1">Sections with more advanced content are on their way and will be covered when we move to **Fundamental Analysis** and **Technical Analysis**.</span>
 
-**The 'Guide' page contains the full list of topics and strategies.**
+### The Stock Market - (Core)
+The stock market is a massive financial network that allows people to buy and sell different companies.
 
-  </div>
+The stock market is comprised thousands of **companies**, allowing anyone to buy or sell portions of companies.
 
-  <div id="step2" style="display: none;">
-### Market-Cap
-Ready? Let's first talk about market-cap.  
-    
-Market-cap is simple to understand, but foundational and essential in all types of trading. 
-    
-Market-cap represents the value of a company, based upon the total value of all the company's shares of stock.
-    
-It is often seen as the total value of the company, for example, Apple (AAPL) has a market-cap of **~3.4 T**. Here, we would say "Apple is worth around 3.4 trillion".  
+Since many companies are huge, some having valuations in the $100,000,000,000's, the stock market allows anyone to purchase and exchange small **shares** of these companies. These shares represent your (*partial*) ownership of these companies, and every share carries a monetary value.
 
-  </div>
+<div class="tip-box">
+On the stock market, companies are referred to as stocks.  
+**A Company = A Stock**</div>
 
-  <div id="step3" style="display: none;">
-<!-- transition -->
-We'll revisit Market-Cap soon, lets run through Share Price first.  
+**The Sole Gole:**  
+The goal of investing is to invest in shares of companies **you believe in**, hoping that the value of the company increases, in turn causing your shares (holdings) to increase in value.
 
-  </div>
+Throughout the year, we will discuss strategies on successfully analyzing good investments (stock choices)
 
-  <div id="step4" style="display: none;">
-### Share Price
-When trading stocks, most of the time you are buying & selling **shares**.  Shares represent small portions of companies. 
+### Share Prices
+Every share of a company has its unique price.  
+
+**For example: **
+Apple's (AAPL) share price is $225/share.
+Chipotle's (CMG) share price $56/share.
+
+This means that to own shares of AAPL, you would need to invest $225 for each share you plan to buy.
+
+**Share Price Fluctuation:**  
+Remember, to profit from the stock market, your shares need to increase in value.
+
+This brings us to Share Price Fluctuation/Movement.
+
+The value of any shares of stock are always changing. On one day they could go up 3%, on the next day they could go down 2.5%. Profit is *never* guaranteed, but you can take steps to improve your accuracy.
+
+<div class="tip-box">
+At the core, share price increases with company growth and success  
+We will go in-depth on the specifics in future sections</div>
 
 <span class="smalltext-black">**Did you know Elon Musk has 200 million shares of Tesla (TSLA)?  
-Companies have hundreds of millions of shares total, some having billions of shares outstanding.** </span>
+Companies often have hundreds of millions of shares total outstanding.** </span>
 
-  </div>
+<div class="tip-box2">**Important**:  
+Do not compare two different stocks' share prices. Different companies have different share prices, and **comparing two different share prices of two different companies is useless**.
 
-  <div id="step5" style="display: none;">
-Every share you buy has a price. Going back to our previous example, Apple (AAPL) has a share price of $220 / share.  
+For example, Costco (COST)'s share price is $900/share, but Apple (AAPL)'s is $225/share.  
+Does this mean Costco is a bigger company than Apple? **No**.</div>
 
-You aim to buy shares at lower share prices, and sell them for a higher price in the future.
+### Market-Cap
+Market-cap is an important piece of information to consider before any investment decision.
+
+Market-cap represents the total value of the company, **Market-Cap = Valuation**.
+
+<div class="tip-box">
+Market Cap = share price * # of shares</div>
+
+**Why Is It Important?**  
+Market-cap determines the company's size, based on what the stock market believes the company is worth.
+Paired with (*)quantitative data, it lets us measure the fair value of a stock.
+
+<span class="smalltext-black">*(will be covered when we discuss Fundamental Analysis)</span>
+
+<div class="tip-box2">
+**A key thing to know:**  
+Share price moves *proportionally* to market-cap  
+This means a <span class="highlight1">**+20%**</span> jump in share price means a <span class="highlight1">**+20%**</span> jump in market-cap  
+
+Comparing two different stocks' market-caps is okay.</div>
+
     
-  </div>
-
-  <div id="step6" style="display: none;">
-<!-- transition -->
-**NOTE:** Never compare the share prices of different companies. Every company has its own unique share price.  
-
-For example, Costco (COST)'s share price is $800, but Apple (AAPL)'s is $220/share.  
-Does this mean Costco is bigger than Apple? **No**, in fact, Apple's valuation is 9x higher than Costco's.
-    
-  </div>
-
-  <div id="step7" style="display: none;">
-### Share Price and Market-Cap Relation
-Let's revisit Market-Cap, and connect it to share price.
-
-A company's market cap moves **proportional** to the share price of its stock.  
-This is because market-cap is calculated by multiplying the share price by the total number of shares outstanding.
-    
-  </div>
-
-  <div id="step8" style="display: none;">
-<!-- transition -->
-For example, if a company has 1 million shares outstanding and the share price goes up from $100 to $120, the market-cap would increase as follows:
+If a company has 1 million shares outstanding and the share price goes up from $100 to $120, the market-cap would increase as follows:
 
 - Initial market-cap: 1,000,000 shares * $100/share = $100,000,000
 - New market-cap: 1,000,000 shares * $120/share = $120,000,000
 
 This shows how a change in the share price directly affects the market-cap. 
-    
-  </div>
 
-  <div id="step9" style="display: none;">
-### Stock Fluctuation
-Why do stocks move up and down?  
-**Stocks fluctuate and move based on company performance**.
-
-But at a technical level, it's a bit more complex.
-
-  </div>
-
-  <div id="step10" style="display: none;">
-Share prices are affected directly by the demand of a stock.
-
-When the demand of a stock is high, there are more willing buyers attempting to purchase shares. 
-However, due to the limited number of shares, the stock price must move **up** in order to balance out the number of willing buyers and sellers.
-
-Vice versa, when the demand is low, the are more willing sellers than buyers. In order to balance the number of willing buyers and sellers, the share price goes **down**, increasing the number of buyers while decreasing the number of sellers.
-
-  </div>
-  
-  <div id="step11" style="display: none;">
-
-This situation could be compared to the modern day supply chain. When there's high demand, prices are higher, and vice versa.
-
-In the end, demand of a stock is influenced by the performance of the company, making  
-**share price fluctuate based on the performance of the company**
-
-  </div>
-
-  <div id="step12" style="display: none;">
-An example was the outage involving CrowdStrike (CRWD).  
-After the report of the global outage in July, 2024, CRWD plunged 30% within three trading days
-
-### -----------------------------------
-
-  </div>
-
-  <div id="step13" style="display: none;">
 ### Volume
-Volume is the number of shares traded in a day.
+Volume is the total # of shares traded within a day.
+Stocks with higher volume are more active and more well-known.
 
-Volume can be used to represent how active a stock is.
+Volume isn't all that important.
 
-  </div>
+### Volatitility
+Volatility is important, though, as it measures a stock's risk.
+A stock/company with a higher volatility moves more rapidly with bigger %change.
 
-  <div id="step14" style="display: none;">
+<span class = "something1">**For example:**  
+A stock with a lower volatility may see **~1-2%** movement each day,  
+while a stock with a higher volatility could see **>5%** movement.</span>
+
+If you prefer your portfolio to aggressively grow VS remain stable, volatility is a key factor to consider.
+
+---
+
 ### Indexes
-NASDAQ, DOW JONES, S&P 500?  
-Do those names ring a bell?
+Indexes are an incredibly **important** part of the stock market.
 
-These are called indexes, and they measure the overall performance of their sectors or subsets.
+Indexes generally measure the overall stock market's performance, tracking hundreds of companies at once.
+You could almost think of them as a broad **basket of stocks**
 
-  </div>
+The three major indexes are the: <span class="highlight2">**S&P 500**, **NASDAQ**, and **DOW**</span>  
+<span class="something1">The <span class="highlight2_09">S&P 500</span> tracks the 500 largest US companies.</span>  
+<span class="something1">The <span class="highlight2_09">NASDAQ</span> tracks technology and software companies</span>  
+<span class="something1">The <span class="highlight2_09">DOW</span> tracks the 30 biggest US companies</span>
 
-  <div id="step15" style="display: none;">
+Indexes are **steady and stable** investments that rise slowly over time. They are a great alternative to cash if you dislike the risk associated with choosing specific stocks/companies.
 
-Sectors are the various industries within the stock market as a whole.
+<div class="tip-box">
+We will continue to talk indexes and ETFs in the future</div>
 
-**Prominent Indexes:**  
-**NASDAQ:** technology and software sector  
-**DOW JONES:** the 30 largest US companies  
-**S&P 500:** the 500 largest US companies
 
-  </div>
+### --- Temporary Conclusion ---
+You've finished reading this section for "Important Stock Market Basics & Review".  
+This section covered the essentials related to stocks, which will be crucial for our future material and discussions.
 
-  <div id="step16" style="display: none;">
-
-These indexes are often used to measure the wellbeing of the overall stock market, and in turn, the economy.
-
-  </div>
-
-  <div id="step17" style="display: none;">
-### Earning Reports
-Earning reports are one of the **most crucial factors** within the stock market.
-
-At its core, they highlight a company's performance and economic state.
-
-These include the revenue, net-income, EPS, forecast, and other factors of the company. <span class= "smalltext-black">(To be covered later on)</span>
-
-  </div>
-
-  <div id="step18" style="display: none;">
-They play a critical role in determining price movement and they often lead to significant volatility and rapid price changes.
-
-Because **earnings are important** and advanced, we will fully cover them when we start **Fundamental Analysis**.
-
-  </div>
-
-  <div id="step19" style="display: none;">
-### --- Conclusion ---
-You've finished reading the section for "Important Stock Market Basics".  
-This section has covered the essentials and groundwork related to stocks, which will be crucial for our future material and discussions.
-
-  </div>
-
-  <div id="step20" style="display: none;">
 <span class="smalltext-black">
-**Originally Published:** 7/3/2024  
-**Last Revised:** 7/24/2024</span>
+**Last Revised:** 12/27/2024</span>
 
-  </div>
-
-  <div id="step21" style="display: none;">
-<!-- transition -->
-We value your feedback!
-Let us know what you thought about this section and how it can be improved.
-[Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdJyTuxvnm-5b3sZTM52nhWeEhg0P3Z20WZVA86AX3uHJrwpw/viewform)
-
-  </div>
-  
-  <!--
-  <div id="step22" style="display: none;">
-### Step 22
-Text for step 22.
-  </div>
-
-  <div id="step23" style="display: none;">
-### Step 23
-Text for step 23.
-  </div>
-
-  <div id="step24" style="display: none;">
-### Step 24
-Text for step 24.
-  </div>
-
-  <div id="step25" style="display: none;">
-### Step 25
-Text for step 25.
-  </div> -->
-
-  <button id="nextButton">Next</button>
-</div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var currentStep = 1;
-  var totalSteps = 21; // Total number of steps
-
-  document.getElementById("nextButton").addEventListener("click", function() {
-    var nextStep = document.getElementById("step" + (currentStep + 1));
-    if (nextStep) {
-      nextStep.style.display = "block";
-      currentStep++;
-    }
-    this.parentNode.insertBefore(this, document.getElementById("step" + currentStep).nextSibling);
-    if (currentStep === totalSteps) {
-      this.remove(); // Remove the "Next" button after the last step
-    }
-  });
-});
-</script>
-
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-image: url('invest-background-tickers.png');
-    background-size: cover;
-    background-repeat: repeat;
-    min-height: 100vh;
-  }
-
-  #steps {
-    padding: 20px;
-    box-sizing: border-box;
-  }
-</style>
-
-<br>
-
-<div class="nav-right">
- | [Home](index.qmd){style="color: #373737;"} | [About](about.qmd){style="color: #373737;"}
-</div>

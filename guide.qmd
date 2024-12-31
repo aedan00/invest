@@ -5,11 +5,7 @@ format: html
 
 <span class="big"></span>
 
-Throughout the year, we'll explore various investing tactics.   
-Stock ideas and information will also be exchanged.
-
-**The full list of topics/tactics include, but are not limited to:**  
-<span class="smalltext-black">These topics will be discussed at meetings</span>
+<span class="smalltext-black">Full list of investment topics relating to the stock market</span>
 <div class="small-table">
 | **Intro**                          | **Intermediate**                              |   **Advanced**                            |
 |------------------------------------|-----------------------------------------------|-------------------------------------------|
@@ -19,9 +15,14 @@ Stock ideas and information will also be exchanged.
 | - Factors affecting share value    | - Option trading (puts & calls)               | - ~~Futures~~                             |
 | - Acquisitions (impact)            | - Intrinsic value                             |                                           |
 | - Volume, market-cap, PE ratio     | - Fundamental Analysis (earnings, financials) |                                           |
-|                                    | - Technical Analysis (graphs, pattern trend)|                                          |
+|                                    | - Insider reports                                          |
 </div>
 ---
+
+<div class="tip-box2">
+<span class="something1">Throughout meetings, we cover the topics listed above to provide a detailed understanding of the stock market. Later, once proficient in each topic, analysis of certain companies and their stock is possible, allowing you to find and choose strong investments.
+
+Our investments have returned +51.14% since July 2024, beating the overall S&P 500's 7.89% and NASDAQ's 8.99% in that time.</div>
 
 <!-- <div class="tip-box2">
 ~~**Informational Meeting** | <span class="something1">9/13/2024:</span>  

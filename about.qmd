@@ -13,16 +13,27 @@ css: styles.css
 **Co-President & Founder:**  
 <span class="something1">Aedan Liao</span>  
 **Co-President:**  
-<span class="something1">Hayden Reheiser</span> 
+<span class="something1">Hayden Reheiser</span>  
+**Officers:**  
+<span class="something1">Kushanu Bhattacharya</span>
 <!--</div>-->
 
 ---
 
+<span class="something1">
+We focus on **stock market** analysis and investment strategies.  
+We discuss various investment methods and build financial experience together.
+</span>
+
 <!-- <span class="smalltext-black">Version history can be found [here](https://github.com/aedan00/invest)  
 <span class="blank-line"> </span> -->
 
-<span class="smalltext-black">**Dublin Coffman Investment Club**  
+<span class="smalltext-black">**Dublin Coffman Investment Club** | **DCHS Invest**  
 Site powered by RStudio and Quarto</span>  
+
+<span class="something1">
+Website services inspired from a: [Data Science Course](https://bootcamp.davidkane.info/)
+</span>
 
 <br>
 

@@ -11,16 +11,18 @@ website:
         text: Home
       - href: guide.qmd
         text: Guide
-      - href: about.qmd
-        text: About Us
-      - href: first-analysis.qmd
-        text: Meeting Research
+      - href: analysis.qmd
+        text: Research
+      - href: december-roundup.qmd
+        text: December Report
         
 format:
   html:
     theme: sandstone
     css: styles.css
     toc: true
+    grid:
+      body-width: 880px
 
 
 

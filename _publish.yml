@@ -1,6 +1,6 @@
 - source: project
   quarto-pub:
-    - id: 250bb1e7-79a1-4553-869b-83907edc5c05
-      url: 'https://invest.quarto.pub/dchs-invest'
     - id: d77d4d72-ce1d-4dc0-9ddc-0c954da55cb8
       url: 'https://aedan.quarto.pub/investment-club'
+    - id: 050ab43e-755c-45e8-927e-dac64451cf66
+      url: 'https://invest.quarto.pub/dchs-invest'

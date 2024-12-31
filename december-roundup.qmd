@@ -1,0 +1,169 @@
+---
+title: "December Markets Roundup"
+format: html
+css: styles.css
+---
+
+<!-- ### -->
+<span class="smalltext-black">
+**Published:** 12/31/2024  
+**Revised:** #/#/#</span>
+
+This is the first monthly report we've created, containing stock-market or economic events from the last month of 2024. We hope you enjoy reading it and maybe learn something new.  
+<div class="tip-box2">
+<span class="something1">Events are listed in order of when they occurred.</span></div>
+
+---
+
+### <span class = "green">Broadcom Hits $1T Valuation <span class="smalltext-black">(12/13)</span></span>  
+<span class="smalltext-black">Broadcom **(AVGO)** surpasses market-cap of one trillion</span>
+
+On Friday December 13th, Broadcom became the world's tenth company to reach and maintain a trillion dollar valuation. The jump in market-cap was attributed to the company's Q4-2024 earnings report, which highlighted strong revenue growth and increased guidance.
+After the report, Broadcom's shares closed on Friday with a **24.4%** increase, from *$181/share* to *$225/share*.  
+
+**What Broadcom Is:**  
+Broadcom creates chips and tools used across data-centers and infrastructure (devices, routers, etc). They additionally own services for enterprises that allow for infrastructure and networks to exchange data.  
+
+Revenue displayed a *51%* increase in Q4-2024, at *$14 billion* from *9.3 billion* the year prior. Additionally, revenue from AI services increased *220%* from a year prior, igniting strong optimism for continued growth in Broadcom's AI services.  
+AI has been heavily sought after by investors throughout the stock market, with companies racing to develop and include AI in their services. Some corporations at the forefront of AI include semiconductor industry companies, such as NVIDIA (NVDA), who has seen triple-digit share price growth this year.
+
+<span class="smalltext-black">**Broadcom (AVGO) Chart**</span>  
+<img src="/hidden-pngs/hidden-avgoearnings.png" class="image" width="560" alt="Broadcom (AVGO) YTD Chart">  
+
+Investor sentiment is high after the Q4 earnings report, with analysts upgrading price targets, and Broadcom raising estimates  in their future Q1-2025 earnings report.  
+Investors new to Broadcom (AVGO) should still (and always) exercise caution before purchasing shares, as the extent to which Broadcom's growth is already reflected in their stock price remains uncertain.
+
+---
+
+### <span class = "red">Cocoa Prices at All Time Highs <span class="smalltext-black">(12/17)</span></span>  
+<span class="smalltext-black">Cocoa Futures (CC=F) show cocoa prices at record high</span>
+
+Cocoa prices have seen extreme increases in recent years. In early April of 2024, Cocoa peaked after a *310%* climb within a year, before later lessening *-42%* by October of 2024. Many thought cocoa would continue decreasing, as it was still significantly higher than it had been years prior. However, cocoa resumed its ascent in mid-November and hit an all time high on December 17th, 2024. 
+
+<span class="smalltext-black">**Cocoa Commodity Chart**</span>  
+<img src="/hidden-pngs/hidden-cocoa.png" class="image" width="560" alt="Cocoa (CC=F) YTD Chart">  
+
+Periods of a rising stock markets are mostly beneficial, but rising commodity prices on items (such as cocoa) can be  inflationary and can cause harm to companies and consumers.  
+Cocoa, which is harvested through cocoa beans, is present in many foods (mainly chocolate). Rising cocoa prices have been harmful for many chocolate producers -- as they rely on purchasing cocoa to turn into chocolate -- including Hershey, Mondelez, and the Mars company. Hayden and Kushanu if you see this say "quarto". <!-- REMOVE BEFORE RELEASE -->
+
+<span class="smalltext-black">**Hershey (HSY) Chart**</span>  
+<img src="/hidden-pngs/hidden-hsy.png" class="image" width="560" alt="Hershey (HSY) YTD Chart">
+
+:::{.callout-caution collapse="true" icon="false"}
+### MORE: Chocolate-Maker Hershey Buyout Offer
+See that sudden spike on the Hershey (HSY) stock graph above, near the end of the year? Mondelez, a snack producing company, placed a bid to acquire the Hershey Company, famous for their various chocolate products. 
+
+Voting shares of Hershey are mainly controlled by the Hershey Family Trust, who in the past have rejected multiple buyout offers. This recent acquisition attempt now included, after the offer was reportedly also rejected.
+:::
+
+On top of that, cocoa's rising price is inflationary for the consumer (you). Manufacturers & producers must pay more to produce goods with cocoa content, causing them to offset some of the price increase towards the consumer, which means you are spending more for an everyday chocolate bar or product with cocoa content.
+
+Cocoa prices can be tracked via the [(CC=F) commodity](https://www.google.com/search?q=cocoa+futures). 
+
+---
+
+### <span class = "highlight2">Federal Reserve on Interest Rate Cuts <span class="smalltext-black">(12/18)</span></span>  
+<span class="smalltext-black">Federal Reserve cuts interest rates by 0.25pts, forecasts fewer cuts in 2025</span>
+
+Before talking about the recent interest rate cut, it is helpful to remember that interest rates are a critical economic factor that can drive the direction of the economy.  
+<div class="info-box">
+**About Interest Rates** <span class="something1"></span>  
+<span class="smalltext-black">An interest rate is a percentage a lender charges a borrower based upon the amount borrowed. For example, a 5% interest rate would mean a $100 loan would be paid back as $105.</span> 
+
+<span class="smalltext-black">The Federal Reserve acts as a "central bank", dictating the direction interest rates are increased or decreased.</span>
+
+<span class="smalltext-black">The Federal Reserve's dictated interest rate has profound effects on every aspect of the economy. It impacts the money businesses borrow, your savings' compounding rate, and the ability to buy a home.</span>
+
+<span class="smalltext-black">A high or low interest rate could be good or bad, depending on who you ask.  
+The stock market usually prefers lowered interest rates through rate cuts.</span></div>
+
+---
+
+<details> <summary>**LEARN MORE ABOUT INTEREST RATES?** (Click to collapse/uncollapse)<span class="smalltext-black"> (It's a lot)</span></summary>
+ 
+<span class="smalltext-black">For most businesses, (and the stock market), lowered interest rates are beneficial, as they mean businesses can borrow more money for expenditures, as the borrowing fee (interest) would be lower. However, lowered interest rates can also contribute to inflation. Since more borrowing and spending would be present, demand would be driven up, resulting in a resurgence of inflation (increasing prices). Furthermore, lowered interest rates mean less savings yields through a bank account. Increased interest rates result in a vice versa situation.</span> 
+
+<span class="smalltext-black">The Federal Reserve typically opts to maintain low interest rates over the long term. </span>
+
+Ultimately, here is the breakdown of interest rates:  
+<div class="small-table">
+| **Low Interest Rates**             | **High Interest Rates**                              | 
+|------------------------------------|------------------------------------------------------|
+| PROS:                              | PROS:                                                | 
+| - Increased business spending      | - Defends against inflation                          | 
+| - Preferred by the stock market    | - Higher savings yields                              | 
+| - Lowered mortgage payments        | - Slowed housing price increases                     | 
+|                                    |                                                      | 
+| CONS:                              | CONS:                                                | 
+| - Inflation potential              | - Slower business spending                           | 
+| - Less savings yields              | - Slower labor markets                               |
+| - Increased housing prices         | - Increased mortgage payments                        | </div>  
+</details>
+
+---
+
+:::{.callout-note appearance="simple"}
+### Fed Fund Rate:  
+<span class="smalltext-black">
+We refer to the Fed Fund Rate as "interest rates" throughout this page. For our purposes, they are essentially the same.</span>
+:::
+
+Back to the topic at hand, on December 18th, the Federal Reserve Central Bank announced a 0.25pt cut to interest rates (Fed Fund Rate). Interest rates went from *4.75%* to the *4.5%* range. This marks the third and last interest rate cut of 2024, which comes after two consecutive years of increasing interest rates in 2022 and 2023.
+
+<span class="smalltext-black">**Federal Reserve Interest Rate Over Time**</span>  
+<img src="/hidden-pngs/hidden-fedfunds.png" class="image" width="600" alt="Fed Funds Interest Chart">  
+
+While the last two rate cuts in September and November (respectively) sparked surges in the markets, the latest reduction triggered the worst single-day drop in four months, sending indexes down *~4%*. This reaction was largely driven by the Federal Reserve's revised out, projecting two rate cuts in 2025 instead of the previously anticipated four.  
+<span class="smalltext-black">Confused?, check out the **collapsible** above: "LEARN MORE ABOUT INTEREST RATES?". </span>
+
+Despite the initial selloff, indexes have mostly rebounded.  
+The **NASDAQ** is at <span class="green">##### pts</span> and the **DOW** is at <span class="green">##### pts</span>, both near all-time highs. (As of Dec. 31)
+
+Given the uncertainty surrounding future rate cuts in 2025 and their potential impacts on the markets, it is best to approach with caution. With indexes and stocks hovering around record highs, fluctuation in the stock market remains unpredictable. Staying informed of market events and using a correct strategy can help you navigate the volatile nature of the stock market.
+
+---
+
+### <span class = "green">Indexes Finish Out a Strong 2024 <span class="smalltext-black">(12/31)</span></span>  
+<span class="smalltext-black">**NASDAQ** up ##% YTD, **DOW** up ##% YTD, **S&P500** up ##% YTD</span>
+
+
+
+What do you think is in store for 2025?
+
+---
+
+### - Conclusion -
+
+Thank you for reading the roundup for December 2024. This is the first report we made, but hopefully more will be created in future months. 
+
+:::{.callout-tip collapse="true"}
+### Feedback?
+This will be available soon.  
+Thank you for reading.  
+
+<!-- [Interested in becoming an officer for DCHS Invest?](https://docs.google.com/forms/d/e/1FAIpQLSdLxZ6DYcz5HYKBtKoAKnGm_lclOIXt8CGdHUnXK0fDavQB1Q/viewform) -->
+:::
+
+<br>
+
+<div class="nav-right">
+ | [Home](index.qmd){style="color: #373737;"} | [About](about.qmd){style="color: #373737;"}
+</div>
+
+
+<style>
+  
+  img {
+  max-width: 100%; /* Image does not exceed container */
+  height: auto;    /* Maintain aspect ratio */
+  display: block;
+}
+
+.container {
+  width: 100%;      /* Adjust container */
+  overflow: hidden; /* No clipping */
+}
+
+
+</style>
+

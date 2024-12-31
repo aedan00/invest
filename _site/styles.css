@@ -47,6 +47,11 @@ body {
     font-weight: bold;
 }
 
+.big-med {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
 .highlight {
     color: #006400; /* Dark green */
     font-size: 1.0em;
@@ -82,7 +87,7 @@ body {
 
 .border-type-banner {
     display: inline-block;  
-    background-color: #bde3b6; 
+    background-color: black; 
     padding: 10px; 
     border: transparent; 
     border-radius: 5px;
@@ -103,6 +108,15 @@ body {
 
 .smalltext-black {
     font-size: 0.8em;
+}
+
+.minitext-black {
+    font-size: 0.7em;
+}
+
+.smalltext-white {
+    font-size: 0.8em;
+    color: white;
 }
 
 .red {
@@ -136,7 +150,7 @@ body {
 
 .small-table {
     font-size: 14px;  
-    color: #006400;  
+    color: black;  
     padding: 5px;
 }
 
@@ -172,6 +186,12 @@ body {
   background-position: center;
 }
 
+.grid-item.background2 a {
+  background-image: url('hidden-pngs/invest-background-analysis.png');
+  background-size: cover;
+  background-position: center;
+}
+
 .grid-item a {
   text-decoration: none;
   color: white;
@@ -200,6 +220,11 @@ body {
 }
 
 .grid-item.background1:hover a {
+  <!--background-color: rgba(64, 65, 65, 0.3);-->
+  border-radius: 10px;
+}
+
+.grid-item.background2:hover a {
   <!--background-color: rgba(64, 65, 65, 0.3);-->
   border-radius: 10px;
 }

@@ -1,15 +1,23 @@
 ---
-title: "DCHS Investment Club"
+title: "DCHS Invest"
 format: html
 css: styles.css
+
 ---
+
+<!--<span class="big"><span class="green">
+<p align="left">DCHS Invest</p></span></span></p>-->
+
 <span class="blank-line"></span>
 
-<!--<div class="info-box">
-**Update** | <span class="something1">9/27/2024:</span>  
-Upcoming meeting on Friday, September 27th --  
+<div class="tip-box2">
+**Update** | <span class="something1">12/7/2024</span>  
+Meetings will resume in January.  
 [Learn more](https://docs.google.com/document/d/1cwgCudvzwrRmo7swpXPi9XubgKfZ64_dYvQHMxo2ibA/view)</div>
---> 
+<div class="tip-box" style="float: left;">
+**Update** | <span class="something1">12/31/2024</span>  
+Read December's report of market events, created by us.  
+[Check out](december-roundup.qmd)</div>
 
 ---
 
@@ -17,25 +25,24 @@ Upcoming meeting on Friday, September 27th --
 
   <div class="grid-item background1">
 <a href="https://dublin.schoology.com/group/7283420475">
-<!--<img src="trifold-no5.png" alt="text" width="220" />
-<span class="mini-text">Click to expand</span>-->
 <span class="main-text"><span class="black">**Join/Register**</span></span>
-<span class="sub-text"><span class="black">Join our group to  
-receive updates</span>
+<span class="sub-text"><span class="black">[Directs to external login]  
+Receive updates</span>
 </a>
   </div>
   
   <div class="grid-item background">
 <a href="guide.qmd">
 <span class="main-text">Explore All Topics</span>
-<span class="sub-text">View all strategies we'll cover relating to the stock market</span>
+<span class="sub-text">View all experiences we'll cover relating to the stock market</span>
 </a>
   </div>
   
-  <div class="grid-item">
-<a href="first-analysis.qmd">
-<span class="main-text">Group Stock Analysis</span>
-<span class="sub-text">Examining different stocks that members are interested in  
+  <div class="grid-item background2">
+<a href="analysis.qmd">
+<span class="main-text">Stock Analysis</span>
+<span class="sub-text">Analysis of stocks across different sectors;  
+Explore different investments
 </span>
 </a>
   </div>
@@ -43,27 +50,73 @@ receive updates</span>
 </div>
 
 ---
-<div style="opacity: 0; animation: fadeIn 3.5s forwards;">
+<div style="opacity: 0; animation: fadeIn 3.0s forwards;">
 <span class="big"><span class="green">
 <p align="center">Create a confident financial future</p></span></span>
 <p align="center">
-Learn and apply investing strategies in today's stock market. Join over **30**+ members in a hands-on environment where you can gain financial experience, insight, and knowledge. 
+Learn and apply investing strategies in today's stock market. Join over **40**+ members in a hands-on environment where you can gain financial experience, insight, and knowledge. 
 </p>
 </div>
-<span class = "highlight1">This club focuses on **stock market** analysis and investment strategies.  
-Members can trade on personal accounts or practice trades on a simulated service.  
-<span class="highlight1">*Investing in a real account involves the potential for gain but also the risk of loss.*</span></span>  
 
 <style>
 @keyframes fadeIn {
   from { opacity: 0; }
   to { opacity: 1; }
 }
+
 </style>
-<br>
-<p align="center"><span class="border-type-banner"><span class="smalltext-black"> 
-Submit [meeting feedback](https://docs.google.com/forms/d/e/1FAIpQLScRMvC4YSjmbg9YXcfSyr5G6Z2eR5QXqyncMjN4n2_gSvJ5KQ/viewform){style="color: #bf9000;"}
-</span></span></p>
+ 
+___
+
+<div class = "responsive-layout" style="display: flex; justify-content: space-between; align-items: center; text-align: left;">
+  
+<div style="flex: 1; justify-content: flex-end; padding-right: 20px; display: flex; align-items: center; flex-direction: column;">
+  
+<div style="margin-bottom: 15px;"><h3>NEW: December 2024 Report</h3></div>
+
+Read the December 2024 roundup of stock market events. From chocolate prices to index performance, the report can be visited [*here*](december-roundup.qmd). We plan to write one report for each month, highlighting major events taking place in the markets.
+</div>
+  
+  <img src="/hidden-pngs/hidden-decembergraphic.png" class="image" style="width: 430px; max-width: 100%; height: auto; padding-left: 20px;" alt="December graphic">  
+  
+</div>
+
+___
+
+<span class = "highlight1">We focus on **stock market** analysis and investment experiences.  
+Members can experience real-world stock market investments. Use of a personal account to invest is optional.    
+<span class="highlight1">*Investing in a real account involves the potential for gain but also the risk of loss.*</span></span>  
+
+___
+
+:::{.callout-tip collapse="true"}
+### MarketWatch
+More information will be available soon.
+:::
+
+<style>
+  .responsive-layout {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  }
+
+@media (max-width: 768px) { 
+  .responsive-layout img {
+  max-width: 100%; /* Image does not exceed container */
+  height: auto;    /* Maintain aspect ratio */
+  margin-top: 10px;
+  }
+
+  .responsive-layout {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+</style>
+
 
 <!--<span class="smalltext-black"> 
 <span class="border-type-banner"> 
@@ -74,5 +127,5 @@ Submit [meeting feedback](https://docs.google.com/forms/d/e/1FAIpQLScRMvC4YSjmbg
 <br>
 
 <div class="nav-right">
-[Join](https://dublin.schoology.com/group/7283420475){style="color: #373737;"} | [About](about.qmd){style="color: #373737;"}
+[**Join**](https://dublin.schoology.com/group/7283420475){style="color: #373737;"} | [**About**](about.qmd){style="color: #373737;"}
 </div>

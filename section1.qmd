@@ -1,21 +1,20 @@
 ---
 title: "Section-1"
 format: html
-author: "Aedan L"
 css: styles.css
 ---
 
-<span class="border-type-banner">
-**Important Stock Market Basics & Review**
-</span>  
+<span class="border-type-banner"><span class="white">
+**Important Stock Market Review**
+</span></span>  
 
 ### Intro
 This section covers the foundations of the stock market and information about the stock market.  
-Past meeting contents are also available on this page.
+This page covers the main topics of previous meetings.
 
 ### Contents of this Section
 <span class = "smalltext-black">Preview what is ahead.</span>  
-<div class="info-box">
+<div class="alert3">
 **1:** <span class = "highlight1">What The Stock Market Is</span>  
 **2:** <span class = "highlight1">Share Prices</span>  
 **3:** <span class="highlight1">Market-Cap & Volume</span>  
@@ -30,7 +29,7 @@ The stock market is comprised thousands of **companies**, allowing anyone to buy
 
 Since many companies are huge, some having valuations in the $100,000,000,000's, the stock market allows anyone to purchase and exchange small **shares** of these companies. These shares represent your (*partial*) ownership of these companies, and every share carries a monetary value.
 
-<div class="tip-box">
+<div class="alert3">
 On the stock market, companies are referred to as stocks.  
 **A Company = A Stock**</div>
 
@@ -55,14 +54,14 @@ This brings us to Share Price Fluctuation/Movement.
 
 The value of any shares of stock are always changing. On one day they could go up 3%, on the next day they could go down 2.5%. Profit is *never* guaranteed, but you can take steps to improve your accuracy.
 
-<div class="tip-box">
+<div class="alert3">
 At the core, share price increases with company growth and success  
 We will go in-depth on the specifics in future sections</div>
 
 <span class="smalltext-black">**Did you know Elon Musk has 200 million shares of Tesla (TSLA)?  
 Companies often have hundreds of millions of shares total outstanding.** </span>
 
-<div class="tip-box2">**Important**:  
+<div class="alert2">**Important**:  
 Do not compare two different stocks' share prices. Different companies have different share prices, and **comparing two different share prices of two different companies is useless**.
 
 For example, Costco (COST)'s share price is $900/share, but Apple (AAPL)'s is $225/share.  
@@ -73,7 +72,7 @@ Market-cap is an important piece of information to consider before any investmen
 
 Market-cap represents the total value of the company, **Market-Cap = Valuation**.
 
-<div class="tip-box">
+<div class="alert1">
 Market Cap = share price * # of shares</div>
 
 **Why Is It Important?**  
@@ -82,7 +81,7 @@ Paired with (*)quantitative data, it lets us measure the fair value of a stock.
 
 <span class="smalltext-black">*(will be covered when we discuss Fundamental Analysis)</span>
 
-<div class="tip-box2">
+<div class="alert3">
 **A key thing to know:**  
 Share price moves *proportionally* to market-cap  
 This means a <span class="highlight1">**+20%**</span> jump in share price means a <span class="highlight1">**+20%**</span> jump in market-cap  
@@ -128,14 +127,13 @@ The three major indexes are the: <span class="highlight2">**S&P 500**, **NASDAQ*
 
 Indexes are **steady and stable** investments that rise slowly over time. They are a great alternative to cash if you dislike the risk associated with choosing specific stocks/companies.
 
-<div class="tip-box">
-We will continue to talk indexes and ETFs in the future</div>
-
+<div class="alert1">
+We will continue to talk indexes and ETFs in the coming meetings</div>
 
 ### --- Temporary Conclusion ---
 You've finished reading this section for "Important Stock Market Basics & Review".  
 This section covered the essentials related to stocks, which will be crucial for our future material and discussions.
 
 <span class="smalltext-black">
-**Last Revised:** 12/27/2024</span>
+**Last Revised:** 1/8/2025</span>
 

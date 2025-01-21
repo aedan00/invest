@@ -7,10 +7,10 @@ css: styles.css
 <!-- ### -->
 <span class="smalltext-black">
 **Published:** 12/31/2024  
-**Revised:** #/#/#</span>
+**Revised:** 1/8/2025</span>
 
 This is the first monthly report we've created, containing stock-market or economic events from the last month of 2024. We hope you enjoy reading it and maybe learn something new.  
-<div class="tip-box2">
+<div class="alert1">
 <span class="something1">Events are listed in order of when they occurred.</span></div>
 
 ---
@@ -38,27 +38,26 @@ Investors new to Broadcom (AVGO) should still (and always) exercise caution befo
 ### <span class = "red">Cocoa Prices at All Time Highs <span class="smalltext-black">(12/17)</span></span>  
 <span class="smalltext-black">Cocoa Futures (CC=F) show cocoa prices at record high</span>
 
-Cocoa prices have seen extreme increases in recent years. In early April of 2024, Cocoa peaked after a *310%* climb within a year, before later lessening *-42%* by October of 2024. Many thought cocoa would continue decreasing, as it was still significantly higher than it had been years prior. However, cocoa resumed its ascent in mid-November and hit an all time high on December 17th, 2024. 
+Cocoa prices have seen extreme increases in recent years. In early April of 2024, Cocoa peaked after a *310%* climb within a year, before later lessening *-42%* by October of 2024. Many thought cocoa would continue decreasing, as it was still significantly higher than it had been years prior. However, cocoa resumed its ascent in mid-November and hit an all time high on December 17th, 2024. Cocoa has climbed over ***160%*** in 2024.
 
 <span class="smalltext-black">**Cocoa Commodity Chart**</span>  
 <img src="/hidden-pngs/hidden-cocoa.png" class="image" width="560" alt="Cocoa (CC=F) YTD Chart">  
 
 Periods of a rising stock markets are mostly beneficial, but rising commodity prices on items (such as cocoa) can be  inflationary and can cause harm to companies and consumers.  
-Cocoa, which is harvested through cocoa beans, is present in many foods (mainly chocolate). Rising cocoa prices have been harmful for many chocolate producers -- as they rely on purchasing cocoa to turn into chocolate -- including Hershey, Mondelez, and the Mars company. Hayden and Kushanu if you see this say "quarto". <!-- REMOVE BEFORE RELEASE -->
+Cocoa, which is harvested through cocoa beans, is present in many foods (mainly chocolate). Rising cocoa prices have been harmful for many chocolate producers -- as they rely on purchasing cocoa to turn into chocolate -- including Hershey, Mondelez, and the Mars company. 
 
 <span class="smalltext-black">**Hershey (HSY) Chart**</span>  
 <img src="/hidden-pngs/hidden-hsy.png" class="image" width="560" alt="Hershey (HSY) YTD Chart">
 
-:::{.callout-caution collapse="true" icon="false"}
+:::{.callout-caution collapse="false" icon="false"}
 ### MORE: Chocolate-Maker Hershey Buyout Offer
-See that sudden spike on the Hershey (HSY) stock graph above, near the end of the year? Mondelez, a snack producing company, placed a bid to acquire the Hershey Company, famous for their various chocolate products. 
-
-Voting shares of Hershey are mainly controlled by the Hershey Family Trust, who in the past have rejected multiple buyout offers. This recent acquisition attempt now included, after the offer was reportedly also rejected.
+See the sudden spike then fall towards the end of the graph above?:  
+Chocolate company Hershey rejects buyout offer from snack company Mondelez.
 :::
 
 On top of that, cocoa's rising price is inflationary for the consumer (you). Manufacturers & producers must pay more to produce goods with cocoa content, causing them to offset some of the price increase towards the consumer, which means you are spending more for an everyday chocolate bar or product with cocoa content.
 
-Cocoa prices can be tracked via the [(CC=F) commodity](https://www.google.com/search?q=cocoa+futures). 
+Cocoa prices can be tracked via the <a href="https://www.google.com/search?q=cocoa+futures" target="_blank" rel="noopener noreferrer">(CC=F) commodity</a>.
 
 ---
 
@@ -66,7 +65,7 @@ Cocoa prices can be tracked via the [(CC=F) commodity](https://www.google.com/se
 <span class="smalltext-black">Federal Reserve cuts interest rates by 0.25pts, forecasts fewer cuts in 2025</span>
 
 Before talking about the recent interest rate cut, it is helpful to remember that interest rates are a critical economic factor that can drive the direction of the economy.  
-<div class="info-box">
+<div class="alert3">
 **About Interest Rates** <span class="something1"></span>  
 <span class="smalltext-black">An interest rate is a percentage a lender charges a borrower based upon the amount borrowed. For example, a 5% interest rate would mean a $100 loan would be paid back as $105.</span> 
 
@@ -117,31 +116,46 @@ While the last two rate cuts in September and November (respectively) sparked su
 <span class="smalltext-black">Confused?, check out the **collapsible** above: "LEARN MORE ABOUT INTEREST RATES?". </span>
 
 Despite the initial selloff, indexes have mostly rebounded.  
-The **NASDAQ** is at <span class="green">##### pts</span> and the **DOW** is at <span class="green">##### pts</span>, both near all-time highs. (As of Dec. 31)
+The **NASDAQ** is at <span class="green">*19400 pts*</span> and the **DOW** is at <span class="green">*42550 pts*</span>, both near all-time highs. (As of Dec. 31)
 
 Given the uncertainty surrounding future rate cuts in 2025 and their potential impacts on the markets, it is best to approach with caution. With indexes and stocks hovering around record highs, fluctuation in the stock market remains unpredictable. Staying informed of market events and using a correct strategy can help you navigate the volatile nature of the stock market.
 
 ---
 
 ### <span class = "green">Indexes Finish Out a Strong 2024 <span class="smalltext-black">(12/31)</span></span>  
-<span class="smalltext-black">**NASDAQ** up ##% YTD, **DOW** up ##% YTD, **S&P500** up ##% YTD</span>
+<span class="smalltext-black">**NASDAQ** up 30.88% YTD, **DOW** up 12.55% YTD, **S&P500** up 23.94% YTD</span>
 
+<span class="smalltext-black">**NASDAQ Performance**</span>  
+<img src="/hidden-pngs/hidden-ixic2024.png" class="image" width="500" alt="IXIC Performance YTD">  
 
+<span class="smalltext-black">**DOW JONES Performance**</span>  
+<img src="/hidden-pngs/hidden-dji2024.png" class="image" width="500" alt="DJI Performance YTD">  
+
+<span class="smalltext-black">**S&P 500 Performance**</span>  
+<img src="/hidden-pngs/hidden-gspc2024.png" class="image" width="500" alt="GSPC Performance YTD">  
+
+Examining the indexes growth in recent years:  
+<img src="/hidden-pngs/hidden-ixic5years.png" class="image" width="650" alt="IXIC Performance 5 Years">  
 
 What do you think is in store for 2025?
+
+<!--:::{.callout-note collapse="true"}
+### First Days' Performance of 2025 Compared to Last Year  
+<img src="/hidden-pngs/hidden-start2025.png" class="image" width="650" alt="IXIC Performance 5 Years">   
+<span class="minitext-black">**Added 1/5/2025**</span>  
+:::-->
 
 ---
 
 ### - Conclusion -
 
-Thank you for reading the roundup for December 2024. This is the first report we made, but hopefully more will be created in future months. 
+Thank you for reading the roundup for December 2024. This is the first report we made, but we hope to continue this project in future months.
 
 :::{.callout-tip collapse="true"}
 ### Feedback?
-This will be available soon.  
-Thank you for reading.  
+<a href="https://docs.google.com/document/d/1cwgCudvzwrRmo7swpXPi9XubgKfZ64_dYvQHMxo2ibA/view?tab=t.0#bookmark=id.16gz10qa33zc" target="_blank" rel="noopener noreferrer">Thank you for reading</a>
 
-<!-- [Interested in becoming an officer for DCHS Invest?](https://docs.google.com/forms/d/e/1FAIpQLSdLxZ6DYcz5HYKBtKoAKnGm_lclOIXt8CGdHUnXK0fDavQB1Q/viewform) -->
+Interested in contributing? We'd be glad to offer a leadership role for various meeting or website contributions.
 :::
 
 <br>
@@ -166,4 +180,3 @@ Thank you for reading.
 
 
 </style>
-

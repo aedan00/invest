@@ -10,38 +10,38 @@ css: styles.css
 
 <span class="blank-line"></span>
 
-<div class="tip-box2">
-**Update** | <span class="something1">12/7/2024</span>  
-Meetings will resume in January.  
-[Learn more](https://docs.google.com/document/d/1cwgCudvzwrRmo7swpXPi9XubgKfZ64_dYvQHMxo2ibA/view)</div>
-<div class="tip-box" style="float: left;">
-**Update** | <span class="something1">12/31/2024</span>  
+<div class="alert3">
+**Update** | <span class="minitext-black">NEW</span>  
+Meetings will resume in **early-February**.  Sorry about the delay.  
+<a href="https://docs.google.com/document/d/1cwgCudvzwrRmo7swpXPi9XubgKfZ64_dYvQHMxo2ibA/view" target="_blank" rel="noopener noreferrer">Learn more</a></div>
+<!--<div class="alert1" style="float: left;">
+**Update** | <span class="something1">1/1/2025</span>  
 Read December's report of market events, created by us.  
-[Check out](december-roundup.qmd)</div>
+[Check out](december-roundup.qmd)</div>-->
 
 ---
 
 <div class="grid-container">
 
   <div class="grid-item background1">
-<a href="https://dublin.schoology.com/group/7283420475">
-<span class="main-text"><span class="black">**Join/Register**</span></span>
-<span class="sub-text"><span class="black">[Directs to external login]  
+<a href="https://dublin.schoology.com/group/7283420475" target="_blank" rel="noopener noreferrer">
+<span class="main-text"><span class="black">**Join/Updates**</span></span>
+<span class="sub-text"><span class="black">[Directs to <span class="white">**external login**</span>]  
 Receive updates</span>
 </a>
   </div>
   
   <div class="grid-item background">
 <a href="guide.qmd">
-<span class="main-text">Explore All Topics</span>
+<span class="main-text">Explore Info</span>
 <span class="sub-text">View all experiences we'll cover relating to the stock market</span>
 </a>
   </div>
   
   <div class="grid-item background2">
-<a href="analysis.qmd">
-<span class="main-text">Stock Analysis</span>
-<span class="sub-text">Analysis of stocks across different sectors;  
+<a href="research.qmd">
+<span class="main-text">Research</span>
+<span class="sub-text">Analysis of stocks/companies across different sectors;  
 Explore different investments
 </span>
 </a>
@@ -72,9 +72,9 @@ ___
   
 <div style="flex: 1; justify-content: flex-end; padding-right: 20px; display: flex; align-items: center; flex-direction: column;">
   
-<div style="margin-bottom: 15px;"><h3>NEW: December 2024 Report</h3></div>
+<div style="margin-bottom: 10px;"><h3>December Report</h3></div>
 
-Read the December 2024 roundup of stock market events. From chocolate prices to index performance, the report can be visited [*here*](december-roundup.qmd). We plan to write one report for each month, highlighting major events taking place in the markets.
+Read the December 2024 roundup of stock market events. From chocolate prices to index performances, the report can be visited [*here*](december-roundup.qmd){style="color: #bf9000;"}. We plan to write one report for each month, highlighting major events taking place in the markets.
 </div>
   
   <img src="/hidden-pngs/hidden-decembergraphic.png" class="image" style="width: 430px; max-width: 100%; height: auto; padding-left: 20px;" alt="December graphic">  
@@ -83,6 +83,20 @@ Read the December 2024 roundup of stock market events. From chocolate prices to 
 
 ___
 
+<!--<div class = "responsive-layout" style="display: flex; justify-content: space-between; align-items: center;">
+
+<img src="/hidden-pngs/invest-background.png" class="image" style="width: 400px; max-width: 100%; height: auto; padding-right: 20px;" alt="unknown">  
+
+<div style="flex: 1; justify-content: flex-end; padding-right: 20px; display: flex; align-items: center; flex-direction: column;">
+
+<div style="margin-bottom: 15px;"><h3>UPCOMING: January 2025 Report</h3></div>  
+Read the December 2024 roundup of stock market events. From chocolate prices to index performance, the report can be visited [*here*](january-roundup.qmd){style="color: #bf9000;"}. We plan to write one report for each month, highlighting major events taking place in the markets.
+</div>
+  
+</div>
+
+___ -->
+
 <span class = "highlight1">We focus on **stock market** analysis and investment experiences.  
 Members can experience real-world stock market investments. Use of a personal account to invest is optional.    
 <span class="highlight1">*Investing in a real account involves the potential for gain but also the risk of loss.*</span></span>  
@@ -90,9 +104,20 @@ Members can experience real-world stock market investments. Use of a personal ac
 ___
 
 :::{.callout-tip collapse="true"}
-### MarketWatch
-More information will be available soon.
+### MarketWatch (NEW)
+MarketWatch Platform: <a href="https://www.marketwatch.com/games/dchs-invest-2025-1" target="_blank" rel="noopener noreferrer" style="color: #bf9000">**AVAILABLE**</a>    
+<span class="smalltext-black">For help/setup with MarketWatch, please visit our <a href="https://sites.google.com/dublinstudents.net/marketwatch-setup/" target="_blank" rel="noopener noreferrer" style="color: #bf9000">MarketWatch support site</a>.</span>  
+<!-- <span class="smalltext-black">No current MarketWatch sessions are active yet. Check back again later.</span>-->
 :::
+:::{.callout-note collapse="true"}
+### Where to Start?
+Unsure where to start? Reviewing the main idea of the stock market [here](section1.qmd){style="color: #bf9000;"} is a good place.
+:::
+
+
+___
+
+<span class="smalltext-black">*This website is used to host resources, documents, and projects. Updates and reminders are sent through the joinable group.*</span>
 
 <style>
   .responsive-layout {
@@ -118,14 +143,8 @@ More information will be available soon.
 </style>
 
 
-<!--<span class="smalltext-black"> 
-<span class="border-type-banner"> 
-**View [original info document](section1.qmd){style="color: #bf9000;"}**
-</span>
-</span>-->
-
 <br>
 
 <div class="nav-right">
-[**Join**](https://dublin.schoology.com/group/7283420475){style="color: #373737;"} | [**About**](about.qmd){style="color: #373737;"}
+<a href="https://invest.quarto.pub/#:~:text=delay.%0ALearn%20more-,Join/Updates,-%5BDirects%20to%20external" rel="noopener noreferrer" style="color: #373737">**Join**</a> | [**About**](about.qmd){style="color: #373737;"}
 </div>

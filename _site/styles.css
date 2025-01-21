@@ -6,7 +6,7 @@ body {
     background-repeat: no-repeat;
 }
 
-.info-box {
+.alert3 {
     padding: 20px;
     margin: 20px 0;
     color: black;
@@ -18,7 +18,7 @@ body {
     display: inline-block;  
 }
 
-.tip-box {
+.alert1 {
     padding: 20px;
     margin: 20px 0;
     color: black;
@@ -30,7 +30,7 @@ body {
     display: inline-block;  
 }
 
-.tip-box2 {
+.alert2 {
     padding: 20px;
     margin: 20px 0;
     color: black;
@@ -102,10 +102,6 @@ body {
     font-size: 0.9em;
 }
 
-.minitext-black {
-    font-size: 0.6em;
-}
-
 .smalltext-black {
     font-size: 0.8em;
 }
@@ -129,6 +125,10 @@ body {
 
 .black {
     color: black;
+}
+
+.white {
+    color: white;
 }
 
 .something1 {

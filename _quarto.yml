@@ -11,10 +11,11 @@ website:
         text: Home
       - href: guide.qmd
         text: Guide
-      - href: analysis.qmd
-        text: Research
       - href: december-roundup.qmd
-        text: December Report
+        text: Reports
+      - href: research.qmd
+        text: Research
+      
         
 format:
   html:

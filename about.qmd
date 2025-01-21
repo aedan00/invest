@@ -25,20 +25,22 @@ We focus on **stock market** analysis and investment strategies.
 We discuss various investment methods and build financial experience together.
 </span>
 
-<!-- <span class="smalltext-black">Version history can be found [here](https://github.com/aedan00/invest)  
-<span class="blank-line"> </span> -->
-
 <span class="smalltext-black">**Dublin Coffman Investment Club** | **DCHS Invest**  
-Site powered by RStudio and Quarto</span>  
+Website powered by RStudio and Quarto</span>  
 
 <span class="something1">
-Website services inspired from a: [Data Science Course](https://bootcamp.davidkane.info/)
+Website services inspired from: <a href="https://bootcamp.davidkane.info/" target="_blank" rel="noopener noreferrer">Kane's Data Science Course</a>
 </span>
+
+<!--:::{.callout-important collapse="true"}
+### Contribute?
+Join a leadership position through interest and dedication towards improving DCHS Invest
+:::-->
 
 <br>
 
 <div class="nav-right">
- | [Home](index.qmd){style="color: #373737;"}
+Contribute | [Home](index.qmd){style="color: #373737;"}
 </div>
 
 

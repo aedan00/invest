@@ -1,0 +1,113 @@
+---
+title: "Stock Analysis"
+format: html
+css: styles.css
+---
+
+<div class="alert1">
+<span class="something1">**This page was recently updated**</span></div>  
+
+___
+
+<div class="alert3">
+**About this Page** <span class="something1"></span>  
+<span class="smalltext-black">This page contains open stock research.  
+Analyzing stocks builds an understanding of how to evaluate and research companies.  
+Any work will be added below and credited.</span></div>
+
+<span class="blank-line"></span>
+
+### <span class = "highlight2">Novo Nordisk <span class="smalltext-black">(Pharmaceutical)</span></span>
+
+<img src="/hidden-pngs/hidden-novonordisk.png" class="image" width="200" alt="Novo Nordisk (NVO)">  
+<span class="smalltext-black">Written on January 21st, 2025</span>
+
+Novo Nordisk (NVO) is a Danish pharmaceutical company specialized in weight loss and diabetes treatments. Their products include famous brands such as “Ozempic” and “Wegovy”, which both use the drug GLP-1 semaglutide. Users of their products typically require an injection each week. Novo Nordisk is Europe’s second largest company and is worth nearly three quarters of Denmark's GDP.
+
+The GLP-1 weight loss and diabetes treatment market is dominated by two major players, Novo Nordisk and Eli Lilly. Eli Lilly is based in the US, while Novo Nordisk is based in Europe. The expected annual growth rate for the GLP-1 market is 21.3% <a href="https://www.globenewswire.com/news-release/2024/11/20/2984125/0/en/GLP-1-Analogues-Market-Outlook-Rapid-Growth-at-21-3-CAGR-to-Surpass-USD-322-85-Billion-by-2034-PMR.html" target="_blank" rel="noopener noreferrer"><span class="smalltext-black">(Study by *Polaris Market Research*)</span></a>  
+Increased attention to weight loss and diabetes treatments have caused the GLP-1 market to rapidly grow across North America and other countries.
+
+Novo Nordisk, however, carries a larger share in the GLP-1 semaglutide market, which drives Novo Nordisk’s financial reports to record highs each quarter.  
+In comparison, Eli Lilly’s product pipeline is more diversified and less concentrated than Novo Nordisk. This has caused Eli Lilly's earnings reports to show relatively stagnant EPS and net-income over the last four years.
+
+<img src="/hidden-pngs/hidden-nvovslly.png" class="image" width="400" alt="Novo Nordisk (NVO) vs Eli Lilly (LLY)">  
+<span class="minitext-black">**5 YR** **%change** of Novo Nordisk (NVO) and Eli Lilly (LLY)</span>
+
+**Novo Nordisk (market-cap: *269 Billion USD*):**  
+Total net-income in 2022 was **$7.96-billion**, an increase of **9.13%** compared to 2021.  
+Total net-income in 2023 was **$12.4-billion**, an increase of **55.6%** compared to 2022.  
+Expected total net-income in 2024 is **13.73-billion**, an expected increase of **10.72%** compared to 2023.  
+
+**Eli Lilly (market-cap: *704 Billion USD*):**  
+Total net-income in 2022 was **6.24-billion**, an increase of **11.88%** compared to 2021.  
+Total net-income in 2023 was **5.24-billion**, a decrease of **-16.08%** compared to 2022.  
+Expected total net-income in 2024 is **12.18-billion**, an expected increase of **132%** compared to 2023.  
+
+In the last five years, Novo Nordisk has climbed **167%**, while Eli Lilly has climbed **432%**. While both %changes are excellent, Novo Nordisk had a significantly weaker performance than Eli Lilly, potentially making it undervalued when compared with the competition.
+
+Novo Nordisk carries a PE-ratio of *27.38* and a forward-PE-ratio of *20.08*.  
+Eli Lilly carries a PE ratio of *80.19* and a forward-PE-ratio of *31.95*.
+
+:::{.callout-note appearance="simple"}
+Lower PE-ratio signifies a stock's share price is lower compared to earnings, which is attributed to undervaluation.
+:::
+
+Novo Nordisk's recent declines have been mostly attributed to poor clinical results in their experimental drug "CagriSema" and potentail new laws. CagriSema is meant to act next-generation weight loss treatment with higher efficacy, but a clinical trial yielded weaker-than-expected results, causing NVO to plunge 20%.  
+The federal program, Medicare has also added Novo Nordisk's forerunners -- Ozempic and Wegovy -- to a list of drugs targeted for price cuts, further impacting Novo Nordisk's share price.
+
+Novo Nordisk has approved a share repurchasing program, decreasing the amount of shares outstanding and increasing the valuation of existing shares, which is a sign of confidence by the company's board.
+
+Finally, is Novo Nordisk an ethical company to invest in? That’s a question I asked myself before writing this. Pharmaceutical and healthcare companies are known for regularly raising drug prices, and Novo Nordisk is no exception.  
+Ultimately, it is up to you to decide if a company is ethical, and if investing in such company would be ethical.
+
+Based on strong revenue and EPS<span class="smalltext-black">(w/ net-income)</span> growth in recent years, paired with a price that is likely undervalued and overshadowed at the moment, Novo Nordisk's prospects are optimistic. 
+
+___
+
+### <span class = "red">Crowdstrike <span class="smalltext-black">(Cybersecurity)</span></span>
+
+<img src="/hidden-pngs/hidden-crowdstrike.png" class="image" width="260" alt="Crowdstrike (CRWD)">  
+<span class="smalltext-black">Written on October 23rd, 2024</span>
+
+Crowdstrike (CRWD) is a leading cybersecurity company, securing organizations across the world against cyberthreats.  
+The cybersecurity sector is a strong sector with room for rapid growth as global cyberattacks rise.
+
+Recently, leading cybersecurity firms Crowdstrike and Fortinet announced a partnership to provide endpoint threat protection across networks, combining Crowdstrike's expertise in endpoint security with Fortinet's edge in network security.
+
+Earlier this year, Crowdstrike issued a faulty update to endpoint devices across the world.    
+The resulting outage caused Crowdstrike's (CRWD) share value to decline **~30%** from its peak.
+While the outage was severe, majority of organizations impacted were able to mobilize almost immediately and shortly after the incident.  
+In response to the incident, Crowdstrike promptly issued remediation and support to affected customers.
+
+Revenue and earnings growth have escalated in recent fiscal years and quarters, with Crowdstrike recently becoming profitable in 2024. It is expected for their revenue growth to continuously increase **+20%** year over year, (Y/Y).
+
+Crowdstrike, a leader in a strong sector, paired with rapidly rising growth, is set to outperform and have a successful future.
+
+Crowdstrike's share value has increased <span class = "green">**+21.2%**</span> YTD (at time of writing).
+
+---
+<!--
+### <span class = "red">Fortinet <span class="smalltext-black">(_)</span></span>  
+
+<img src="/hidden-pngs/hidden-NAME.png" class="image" width="260" alt="Fortinet (FTNT)">  
+<span class="smalltext-black">In progress</span>
+
+--- -->
+
+<span class="big-med">**Analyzing a Company of Your Choice**</span>  
+*Tips to look at...*  
+
+- Recent news about the company  
+- Their stock price movement in recent months or years  
+- Their sector/industry  
+- Financial data
+- Why you are confident/interested  
+- Your final rating: <span class = "highlight3">Buy, Outperform, Hold, Underperform, Sell</span>  
+
+<span class="smalltext-black">*At its core, you are checking a company's quality and financials*</span>  
+
+<br>
+
+<div class="nav-right">
+ | [Home](index.qmd){style="color: #373737;"} | [About](about.qmd){style="color: #373737;"}
+</div>
